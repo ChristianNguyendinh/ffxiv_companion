@@ -2,6 +2,12 @@ import os
 from bs4 import BeautifulSoup
 import requests
 
+'''
+Loads data into item_data.csv
+After, sqlite3 into the db, then import the csv into a temp table (since the autoincrement key won't work)
+Then, insert all of the temp table into your real items table
+'''
+
 def get_data():
     html_doc = ""
     data = ""
