@@ -9,5 +9,5 @@ def home(req):
 Return the name of all items
 '''
 def all_items(req):
-	items = [ str(item.name) for item in Items.objects.all() ]
-	return JsonResponse({'items' : items})
+	items = [ { 'value':str(item.name) } for item in Items.objects.all() ]
+	return JsonResponse({ "suggestions": items });

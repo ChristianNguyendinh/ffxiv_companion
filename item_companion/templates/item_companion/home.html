@@ -1,8 +1,34 @@
 {% extends 'item_companion/base.html' %}
 
+{% block head %}
+    <title>Home</title>
+    {% load static %}
+    <script type="text/javascript" src="{% static "dist/jquery.autocomplete.min.js" %}"></script>
+{% endblock %}
+
+
 {% block content %}
     <div id="content">
         <h1 class="className">Hello World</h1>
     </div>
+
+    <input type="text" id="autocomplete"></input>
+
+    <script>
+        $(function() {
+
+            $.ajax({
+                url: '/items/all/'
+            })
+            .done(function(data) {
+                console.log(data)
+
+                $("#autocomplete").autocomplete({
+                    lookup: data['suggestions']
+                });
+            })
+
+        });
+    </script>
 {% endblock %}
 

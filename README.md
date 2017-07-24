@@ -1,7 +1,7 @@
 # wadup  
   
 ### Todo:  
-- Make a simple page with bootstrap that has a search bar with autocomplete for the items  
+- Make a simple page with bootstrap that has a search bar with autocomplete for the items - ADD STYLE - unusable without it rn    
 - The crafting companion  
 ---- Make a table for recipes?  
 ---- When a user adds a recipe for an item, it adds a list of item IDs for a recipe w/ foreign key?  
