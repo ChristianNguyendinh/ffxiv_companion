@@ -4,15 +4,17 @@
     <title>Home</title>
     {% load static %}
     <script type="text/javascript" src="{% static "dist/jquery.autocomplete.min.js" %}"></script>
+    <link rel="stylesheet" href="{% static "css/searchbar.css" %}" />
 {% endblock %}
 
 
 {% block content %}
-    <div id="content">
-        <h1 class="className">Hello World</h1>
+    <div class="container">
+        <div id="content" style="width:100%; height:100%">
+            <h1 class="className">Hello World</h1>
+            <input type="text" id="autocomplete"></input>
+        </div>
     </div>
-
-    <input type="text" id="autocomplete"></input>
 
     <script>
         $(function() {
@@ -21,10 +23,11 @@
                 url: '/items/all/'
             })
             .done(function(data) {
-                console.log(data)
-
                 $("#autocomplete").autocomplete({
-                    lookup: data['suggestions']
+                    lookup: data['suggestions'],
+                    onSelect: function(selection) {
+                        console.log(selection['value'])
+                    }
                 });
             })
 
