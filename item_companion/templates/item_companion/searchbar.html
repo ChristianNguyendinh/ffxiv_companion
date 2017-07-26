@@ -1,9 +1,11 @@
 <div id="content" style="width:100%; height:100%; text-align: center">
     <h1 id="search-bar-title">{{ title }}</h1>
-    <div style="display: inline-block; width: 100%; height: 100%;">
-        <input type="text" id="autocomplete"></input>
-        <button class="btn btn-primary" id="search-button">Go!</button>
-    </div>
+    <form id="search-form" onsubmit="onFormSubmit(); return false;">
+        <div style="display: inline-block; width: 100%; height: 100%;">
+            <input type="text" id="autocomplete"></input>
+            <button type="submit" class="btn btn-primary" id="search-button">Go!</button>
+        </div>
+    </form>
 </div>
 
 <script>
@@ -18,13 +20,17 @@
                 lookup: data['suggestions'],
                 onSelect: function(selection) {
                     $("#autocomplete").val(selection['value']);
+                    // Using jquery here explodes the stack for some reason
+                    document.getElementById('autocomplete').focus();
                 }
             });
         })
 
-        $("#search-button").click(function() {
-            console.log( $("#autocomplete").val() );
-        });
-
     });
+
+    function onFormSubmit() {
+        var inputField = document.getElementById("autocomplete");
+        {{ function }}( inputField.value );
+        inputField.value = "";
+    };
 </script>

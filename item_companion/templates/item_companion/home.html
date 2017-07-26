@@ -11,7 +11,15 @@
 
 {% block content %}
      <div class="container"> 
-        {% include "item_companion/searchbar.html" with title="Search For Items!" %}
+        {% include "item_companion/searchbar.html" with title="Search For Items!" function="myFunc" %}
     </div>
+
+    <script>
+
+        // What to do once a user selects an item
+        function myFunc(selection) {
+            console.log(selection);
+        }
+    </script>
 {% endblock %}
 
