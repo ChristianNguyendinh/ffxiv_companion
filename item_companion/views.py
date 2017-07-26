@@ -8,6 +8,22 @@ def home(req):
 '''
 Return the name of all items
 '''
-def all_items(req):
-	items = [ { 'value':str(item.name) } for item in Items.objects.all() ]
+def all_item_names(req):
+	items = [ { 'value': str(item.name) } for item in Items.objects.all() ]
+	return JsonResponse({ "suggestions": items });
+
+'''
+Return all info about all items
+'''
+def all_item_full(req):
+	items = [ 
+		{ 
+			'value'		: str(item.name), 
+			'main_type'	: str(item.main_type),
+			'sub_type'	: str(item.sub_type),
+			'img_url'	: str(item.img),
+			'item_lvl'	: str(item.ilvl),
+			'req_lvl'	: str(item.rlvl),
+		} for item in Items.objects.all() 
+	]
 	return JsonResponse({ "suggestions": items });

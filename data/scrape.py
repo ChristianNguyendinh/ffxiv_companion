@@ -21,7 +21,7 @@ def get_data():
     Offline processing
     '''
     # Switch to curl later w/ internet
-    # with open('./misc/test.html', 'r') as file:
+    # with open('../misc/test.html', 'r') as file:
     #     for line in file:
     #         html_doc = html_doc + line
 

@@ -3,6 +3,7 @@
     background: #fff; 
     cursor: pointer; 
     overflow: auto; 
+    max-height: 65%;
 }
 
 .autocomplete-suggestion { 
@@ -28,4 +29,17 @@
     padding: 0.5% 0.25%; 
     border: 1px solid #222; 
     border-radius: 5px;
+    vertical-align: top;
+}
+
+#search-button {
+    font-size: 150%; 
+    padding: 0.5% 0.25%; 
+    margin: 0;
+    width: 10%;
+    vertical-align: top;
+}
+
+#search-bar-title {
+    margin: 5%
 }

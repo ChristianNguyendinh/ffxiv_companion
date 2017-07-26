@@ -2,6 +2,7 @@
 
 {% block head %}
     <title>Home</title>
+    <!-- Get JS and CSS for the search bar  -->
     {% load static %}
     <script type="text/javascript" src="{% static "dist/jquery.autocomplete.min.js" %}"></script>
     <link rel="stylesheet" href="{% static "css/searchbar.css" %}" />
@@ -9,29 +10,8 @@
 
 
 {% block content %}
-    <div class="container">
-        <div id="content" style="width:100%; height:100%">
-            <h1 class="className">Hello World</h1>
-            <input type="text" id="autocomplete"></input>
-        </div>
+     <div class="container"> 
+        {% include "item_companion/searchbar.html" with title="Search For Items!" %}
     </div>
-
-    <script>
-        $(function() {
-
-            $.ajax({
-                url: '/items/all/'
-            })
-            .done(function(data) {
-                $("#autocomplete").autocomplete({
-                    lookup: data['suggestions'],
-                    onSelect: function(selection) {
-                        console.log(selection['value'])
-                    }
-                });
-            })
-
-        });
-    </script>
 {% endblock %}
 
