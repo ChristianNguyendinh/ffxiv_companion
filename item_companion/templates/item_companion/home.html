@@ -5,6 +5,7 @@
     <!-- Get JS and CSS for the search bar  -->
     {% load static %}
     <script type="text/javascript" src="{% static "item_companion/dist/jquery.autocomplete.min.js" %}"></script>
+    <script type="text/javascript" src="{% static "item_companion/dist/lodash.min.js" %}"></script>
     <link type="text/css" rel="stylesheet" href="{% static "item_companion/css/searchbar.css" %}" />
 {% endblock %}
 
@@ -44,7 +45,7 @@
                         </div>
                     </div>
                     <div class="col-xs-2 item-remove">
-                        <button type="button" class="close remove-button" aria-label="Close">
+                        <button type="button" class="close remove-button" aria-label="Close" onclick="removeRow(this)">
                             <span aria-hidden="true" style="font-size:8vw;">&times;</span>
                         </button>
                     </div>
@@ -55,10 +56,41 @@
     </div>
 
     <script>
+        
+        var compiled = _.template(
+`<div class="row item-row">
+    <div class="col-xs-2 item-img-row">
+        <img src="<%= img %>" class="item-img" />
+    </div>
+    <div class="col-xs-8 item-info">
+        <div class="row item-data">
+            <div class="col-xs-12"><%= name %></div>
+        </div>
+        <div class="row item-data">
+            <div class="col-xs-12"><%= mtype %> > <%= stype %></div>
+        </div> 
+        <div class="row item-data">
+            <div class="col-xs-6">Req. Lvl: <%= rlvl %></div>
+            <div class="col-xs-6">iLvl: <%= ilvl %></div>
+        </div>
+    </div>
+    <div class="col-xs-2 item-remove">
+        <button type="button" class="close remove-button" aria-label="Close" onclick="removeRow(this)">
+            <span aria-hidden="true" style="font-size:8vw;">&times;</span>
+        </button>
+    </div>
+</div>`);
 
         // Generate a display row for an item
         function genItemRow(name, img, mtype, stype, ilvl, rlvl) {
-
+            return compiled({ 
+                "name": name,
+                "img": img,
+                "mtype": mtype,
+                "stype": stype,
+                "ilvl": ilvl,
+                "rlvl": rlvl, 
+            });
         }
 
         // What to do once a user selects an item
@@ -67,14 +99,23 @@
                 url: '/items/item/' + selection.split(" ").join("_"),
             })
             .done(function(data) {
+                console.log(data)
                 // Add some sort of node with the item to something else?
-                console.log(data);
+                $('.items-box').append(genItemRow(
+                    data.item_name,
+                    data.img_url,
+                    data.main_type,
+                    data.sub_type,
+                    data.item_lvl,
+                    data.req_lvl
+                ));
             });
         }
 
-        $('.remove-button').click(function() {
-            $(this).closest('.row').remove();
-        });
+        function removeRow(button) {
+            console.log(button)
+            $(button).closest('.row').remove();
+        };
     </script>
 {% endblock %}
 
