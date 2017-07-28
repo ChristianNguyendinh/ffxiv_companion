@@ -14,7 +14,7 @@ def single_item(req, itemname):
 	try:
 		itemObj = Items.objects.get(name=item_formatted)
 		item = {
-			'value'		: str(itemObj.name), 
+			'item_name'	: str(itemObj.name), 
 			'main_type'	: str(itemObj.main_type),
 			'sub_type'	: str(itemObj.sub_type),
 			'img_url'	: str(itemObj.img),
