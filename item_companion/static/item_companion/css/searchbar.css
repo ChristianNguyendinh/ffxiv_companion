@@ -27,29 +27,36 @@ html, body {
     color: #3399ff; 
 }
 
+.items-box-div {
+    margin-top: 5px
+}
+
 .items-box {
-    border: 1px solid black; 
+    border: 1px solid black;  
     min-height: 500px; 
     height: 75%;
 }
 
 .item-row {
-    border: 1px solid red; 
-    height: 20%;
+    padding: 2px;
+    border: 1px solid red;  
+    height: 50%;
 }
 
 .item-img-row {
     height: 100%; 
-    border: 1px solid blue;
+    border-right: 1px solid black;
+
+    /* border: 1px solid blue; */
     padding: 0;
 }
 
 .item-img {
-    width: 100%;
+    width: 75%;
 }
 
 .item-info {
-    border: 1px solid green; 
+    /* border: 1px solid green;  */
     height: 100%;
 }
 
@@ -58,8 +65,12 @@ html, body {
 }
 
 .item-remove {
-    border: 1px solid yellow; 
+    /* border: 1px solid yellow;  */
     height: 100%;
+}
+
+.side-button {
+    opacity: 1;
 }
 
 #autocomplete {

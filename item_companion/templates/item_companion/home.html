@@ -14,25 +14,21 @@
     <div class="container"> 
         <div class=row>
             {% include "item_companion/searchbar.html" with title="Search For Items!" function="myFunc" %}
-            <!-- <div id="selected-items" style="width:75%; height:500px; border: 1px solid black;">
-                <div style="width:100%; height:50px; border: 1px solid red; display: inline-flex;">
-                    <div style="width:10%; height:95%; border: 1px solid green;">
-                    </div>
-                    <div>
-                        <span>Item Name</span>
-                        <span>Main Type > Sub Type</span>
-                    </div>
-                </div>
-            </div> -->
         </div>
-        <div class="row">
+        <div class="row items-box-div">
             <div class="col-xs-9 items-box">
 
                 <div class="row item-row">
+
+                    <div class="col-xs-2 item-remove">
+                        <button type="button" class="close side-button" aria-label="Done" style="color: green; float: left" onclick="doneRow(this)">
+                            <span aria-hidden="true" style="font-size:7vw;">&check;</span>
+                        </button>
+                    </div>
                     <div class="col-xs-2 item-img-row">
                         <img src="{% static "item_companion/img/clyde.png" %}" class="item-img" />
                     </div>
-                    <div class="col-xs-8 item-info">
+                    <div class="col-xs-6 item-info">
                         <div class="row item-data">
                             <div class="col-xs-12">Item Name</div>
                         </div>
@@ -45,8 +41,8 @@
                         </div>
                     </div>
                     <div class="col-xs-2 item-remove">
-                        <button type="button" class="close remove-button" aria-label="Close" onclick="removeRow(this)">
-                            <span aria-hidden="true" style="font-size:8vw;">&times;</span>
+                        <button type="button" class="close side-button" aria-label="Close" style="color: red" onclick="removeRow(this)">
+                            <span aria-hidden="true" style="font-size:7vw;">&cross;</span>
                         </button>
                     </div>
                 </div> 
@@ -57,12 +53,17 @@
 
     <script>
         
-        var compiled = _.template(
-`<div class="row item-row">
+        var compiled = _.template(`
+<div class="row item-row">
+    <div class="col-xs-2 item-remove">
+        <button type="button" class="close side-button" aria-label="Done" style="color: green; float: left;" onclick="doneRow(this)">
+            <span aria-hidden="true" style="font-size:7vw;">&check;</span>
+        </button>
+    </div>
     <div class="col-xs-2 item-img-row">
         <img src="<%= img %>" class="item-img" />
     </div>
-    <div class="col-xs-8 item-info">
+    <div class="col-xs-6 item-info">
         <div class="row item-data">
             <div class="col-xs-12"><%= name %></div>
         </div>
@@ -75,8 +76,8 @@
         </div>
     </div>
     <div class="col-xs-2 item-remove">
-        <button type="button" class="close remove-button" aria-label="Close" onclick="removeRow(this)">
-            <span aria-hidden="true" style="font-size:8vw;">&times;</span>
+        <button type="button" class="close side-button" aria-label="Close" style="color: red" onclick="removeRow(this)">
+            <span aria-hidden="true" style="font-size:7vw;">&cross;</span>
         </button>
     </div>
 </div>`);
@@ -113,8 +114,16 @@
         }
 
         function removeRow(button) {
-            console.log(button)
             $(button).closest('.row').remove();
+        };
+
+        function doneRow(button) {
+            var row = $(button).closest('.row');
+            
+            if (row.css("opacity") == 1)
+                row.css("opacity", "0.1");
+            else
+                row.css("opacity", "1");
         };
     </script>
 {% endblock %}
