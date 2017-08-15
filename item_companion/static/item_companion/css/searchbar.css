@@ -67,6 +67,21 @@ html, body {
 .item-remove {
     /* border: 1px solid yellow;  */
     height: 100%;
+    padding: 0px;
+}
+
+.item-count {
+    padding: 0px;
+    text-align: center;
+}
+
+.count-box {
+    width: 50%; 
+    line-height: 2em; 
+    font-size: 1.3em; 
+    text-align: center; 
+    border: 1px solid lightgray; 
+    border-radius: 15%
 }
 
 .side-button {
