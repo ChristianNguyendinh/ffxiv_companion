@@ -49,3 +49,453 @@ Adamantite Claw Hammer,Tools,Carpenter's Secondary Tool,http://img.finalfantasyx
 Adamantite Cross-pein Hammer,Tools,Blacksmith's Primary Tool,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dfbf3764a97f3e63ea4ab9252b2f5c974b66065.png?4.06,2f4972a361f,150,60
 Adamantite Culinary Knife,Tools,Culinarian's Secondary Tool,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/8a/8a09aaeabab8a8ca6ddb7113ff2c78544152e310.png?4.06,ad54e0ca55b,140,59
 Adamantite Dolabra,Tools,Miner's Primary Tool,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d5/d5cd82f4ef093c10395ec0e1a6123cc1f5744ff5.png?4.06,8514587c0b9,150,60
+Adamantite File,Tools,Blacksmith's Secondary Tool,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ec/eccd20571cbec13f5881761c014a89756b4b3ccf.png?4.06,f01d5274686,140,59
+Adamantite Francesca,Other,Miscellany,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5b/5b5018245de442b437e9c8ebdcfd64bae6db3177.png?4.06,dc6f27dbcc8,0,0
+Adamantite Frypan,Tools,Culinarian's Primary Tool,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/8e/8e1327d3d0cb01d68c9d02364711caf351eb25b6.png?4.06,8a01e4117a5,150,60
+Adamantite Gauntlets of Fending,Armor,Hands,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c1/c169af7c30a551bef92e48b3a5734c184d78066a.png?4.06,ac0c0e9ed9b,145,58
+Adamantite Gauntlets of Maiming,Armor,Hands,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f8/f88275539e5c8deb43ea1e577ee9bdee047103df.png?4.06,49044621da2,145,58
+Adamantite Greatsword,Arms,Dark Knight's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/27/275417e1ceabf2b8b8250c8c9884ca3dfbb0210f.png?4.06,0b200196538,150,60
+Adamantite Greaves of Fending,Armor,Feet,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/3c/3c133deb99f764b116d807537148f315ce1dbd9e.png?4.06,148bd54e2a3,150,60
+Adamantite Hatchet,Tools,Botanist's Primary Tool,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/6a/6a306be559c79eff7f1a2571874432def08456e9.png?4.06,be3733a9d57,150,60
+Adamantite Headsman's Axe,Arms,Marauder's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d7/d79798e947bdfd681af294c0228be17e2aefaafd.png?4.06,68ab374be2b,150,60
+Adamantite Helm of Fending,Armor,Head,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/58/58e85acae96ff7016dff0aa8acfc6da80704e054.png?4.06,c1bdf6c8e5b,145,58
+Adamantite Helm of Maiming,Armor,Head,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/45/453262b10c42d93c0bec82968f3e79ce66fbf751.png?4.06,f31cae440a3,145,58
+Adamantite Hoplon,Armor,Shield,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ff/ff39a63d6c13c8bf6eb622d2e15b394027792eb1.png?4.06,95922418c4c,150,60
+Adamantite Ingot,Materials,Metal,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/44/440063adb5c7a9041fce7e06f9d65ee0f7c53940.png?4.06,e6ebc968131,0,0
+Adamantite Jamadhars,Arms,Pugilist's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e3/e345ab7ff1dab0d1d50914d267564537e98d2cc5.png?4.06,909eceffb0a,145,58
+Adamantite Knives,Arms,Rogue's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/84/84ff0f00d840b052dedfca47a5c6842f35736da1.png?4.06,984cc8958d4,145,58
+Adamantite Knuckles,Arms,Pugilist's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a7b8e2b3cf37a960cb9b1e7a9295f458de880cf0.png?4.06,e7b47e85016,150,60
+Adamantite Leg Guards of Maiming,Armor,Feet,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7c/7c2702a0587ae1414f7b17c88c97dd9e78c7fcb4.png?4.06,50d90e12dd2,150,60
+Adamantite Lorica of Fending,Armor,Body,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e6/e6e0ebdd8281fbce84382a581684167a372936ab.png?4.06,38621ecb0c4,150,60
+Adamantite Mail of Maiming,Armor,Body,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0b/0b8c12b14f03fb2cf433c5aea3f85bc74604f875.png?4.06,73ce8b50c10,150,60
+Adamantite Main Gauches,Arms,Rogue's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/6f/6fb8ffad9a6279ac8ece19282f3d73b085e78bff.png?4.06,a8ac0fa8feb,150,60
+Adamantite Mortar,Tools,Alchemist's Secondary Tool,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7a/7a7162d2c418b6ebc6961b69234fadb333d35942.png?4.06,5b2f088b259,140,59
+Adamantite Nugget,Materials,Metal,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ee/ee98d48a58e2eb1659c550ff873ea469eacadc4a.png?4.06,d3da73ccbd7,0,0
+Adamantite Ore,Materials,Stone,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/55/55e028c3c9afa480653df3d37dc7d9518fae215a.png?4.06,7cbf88217f9,0,0
+Adamantite Pauldroncoat of Fending,Armor,Body,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/51/51863bef91c023ffe73636576fa9d3940776a14e.png?4.06,33c54089bda,180,60
+Adamantite Pauldroncoat of Maiming,Armor,Body,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/62/629d550e5fdd90f0472424c1416c74d2a9bc74c7.png?4.06,499f3438c33,180,60
+Adamantite Plate Belt of Fending,Armor,Waist,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/27/273da245a4bb2adaf0873e1adf28d16ed9eb274c.png?4.06,3b7142dd7ee,150,60
+Adamantite Pliers,Tools,Armorer's Secondary Tool,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/21/21f1411964698c28de9c6e0816f6902e531145b7.png?4.06,a371640bae0,140,59
+Adamantite Revolver,Arms,Machinist's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/53/53821015c6ddfb8ab3dfa1b64969e728612b1842.png?4.06,4e04eab3e9a,145,58
+Adamantite Rivets,Materials,Metal,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/10/10262a2036e2fae36ab0f0202dd7af7bd32fa721.png?4.06,644ab5c9032,0,0
+Adamantite Sabatons of Fending,Armor,Feet,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4e/4e3f26c4a9d22a5afa43892ecb6014abe8ffd9e6.png?4.06,152b3f76ce2,145,58
+Adamantite Sabatons of Maiming,Armor,Feet,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9c/9c2b31479ff4ace86de606a99c6b7d5acbfb450f.png?4.06,aa6a2283a39,145,58
+Adamantite Saw,Tools,Carpenter's Primary Tool,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/fb/fbcb2af05338c2f35eda62d0ff0601adea9ef35b.png?4.06,49aecfb5c2f,150,60
+Adamantite Scutum,Armor,Shield,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/87/87928c0014668db58cc6684e3069871818aa1eae.png?4.06,11da387c9f1,145,58
+Adamantite Scythe,Tools,Botanist's Secondary Tool,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/87/8770f2dc5542681831138c52e915fca18a0786d5.png?4.06,628f178c5b0,140,59
+Adamantite Sledgehammer,Tools,Miner's Secondary Tool,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f7/f727400b45a9609f5f2a48fd079e1159f0e1e77e.png?4.06,162efe8cdec,140,59
+Adamantite Sollerets of Fending,Armor,Feet,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ab/ab31cdba0a56c58fe0cdd19d6ced5a7dcd73ddb2.png?4.06,b144cfe0338,180,60
+Adamantite Sollerets of Maiming,Armor,Feet,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/56/56da9f94495733d58d2791fdc69afe918e9c188a.png?4.06,f30be9a02d6,180,60
+Adamantite Spear,Arms,Lancer's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/87/87375560c625f65bffd78044dadc2b9355435f27.png?4.06,b365008117f,145,58
+Adamantite Tassets of Fending,Armor,Waist,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/dd/dd010d9441996072347c67b02b3cd51aa9ac4166.png?4.06,5859f2098d1,145,58
+Adamantite Tassets of Maiming,Armor,Waist,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/dd/dd010d9441996072347c67b02b3cd51aa9ac4166.png?4.06,17f3e98c44a,145,58
+Adamantite Trident,Arms,Lancer's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e9/e948790a2c106930b2eed7346b81149526850e2e.png?4.06,e239b8882bb,150,60
+Adamantite Uchigatana,Arms,Samurai's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1e/1e5f3640d03b8225ff796a94ab720ee22d4ec393.png?4.06,ea20aac0d33,145,58
+Adamantite Vambraces of Fending,Armor,Hands,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4e/4eda3dbbf910201997424c385a9296984e9949e7.png?4.06,a8b76c6aee9,180,60
+Adamantite Vambraces of Maiming,Armor,Hands,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e2/e2ee9158588de8c369d73f477030e962a60e667d.png?4.06,a5e99c07b02,180,60
+Adamantite Winglet,Arms,Gladiator's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b8/b8f8a1f69dc25cc827d3d5cb985f4887e5c2eb5d.png?4.06,c6f67e43215,150,60
+Adamantite Zweihander,Arms,Dark Knight's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4b/4ba04b7eed345420346d26c92708758400c76040.png?4.06,1e688677bbd,145,58
+Adamantite-barreled Culverin,Arms,Machinist's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a3/a3982b9579d3ed8494683a864d59a8c52a46dc64.png?4.06,9a63c586adf,150,60
+Adamantium Bichir,Materials,Seafood,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/57/57bcd631a542c51e9624f05a8b412d55fdfabbb4.png?4.06,eafa0bdd7d4,0,0
+Adamantoise Card,Other,Triple Triad Card,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/48/48fd360045f81e20b741318e7785880d6c2396b0.png?4.06,7e219f69ebd,0,0
+Adamantoise Green Dye,Materials,Dye,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/87/8766a615ce1f564836948df8c194a9c33b733b45.png?4.06,5f48906cb92,0,0
+Adamantoise Shell,Materials,Bone,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f1/f1a3154eb8373097cb7eeb7ab1492e09422c2461.png?4.06,f452875790e,0,0
+Adamantoise Whistle,Other,Other,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d3/d36597ea1c4fa075299be3ebc297ce99fdc624c0.png?4.06,787123463a0,0,0
+Adept's Gloves,Armor,Hands,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0f/0f9c7f1ce0aa754ad89763efb8d1b322075c20ba.png?4.06,a3ce0697ba8,130,58
+Adept's Gown,Armor,Body,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/28/28c98b287fe363e851d981433410bef754ec5757.png?4.06,a6cacbf1ccb,130,58
+Adept's Hat,Armor,Head,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/66/66a1ba40d9bd013d128880822c56cf55d820762d.png?4.06,7f2eace4620,130,58
+Adept's Hose,Armor,Legs,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/39/39395651a2871865d6e2d3af1a70b09ae949e7ba.png?4.06,49a2f28b20e,130,58
+Adept's Thighboots,Armor,Feet,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/40/40d7048b4c269669b18b7b53167853cd4b67e8fa.png?4.06,a047fe9af65,130,58
+Adjudicator's Gavel,Arms,Two-handed Conjurer's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/aa/aacec489fbbb1114f021d724d2c17db9bf78082a.png?4.06,e5b267cbc83,100,50
+Adjudicator's Staff,Arms,Two-handed Thaumaturge's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/73/738777887ea67eaf689427f262e64e88bfd94e8c.png?4.06,26d375f9ebd,100,50
+Admiral Portrait,Other,Wall-mounted,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/37/3700c66140dfcfa808366355486daab9f98d2377.png?4.06,01f36c545e1,0,0
+ADS Frame,Materials,Stone,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f6/f6a4c7e9d76b234e78e006b435ce7c8be48b9140.png?4.06,f80248e7a73,0,0
+ADS Illuminant,Materials,Stone,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9e/9e110b90de5685a4a5ea8db321ab9310239b64b4.png?4.06,a5995cfec34,0,0
+ADS Plating,Materials,Stone,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/3b/3b365e399b2a5539ce872bd0dc0572f2d11dca10.png?4.06,832ba1b924f,0,0
+Adventurers' Guild Aduyses,Other,Wall-mounted,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a9/a9a424c61e667a0580d827989e00a9a563f3e2c2.png?4.06,6f945187a91,0,0
+Aegis Shield,Armor,Shield,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/ba82573ef52c05ee19778fda0202ea3180ced378.png?4.06,1ea47510218,125,50
+Aegis Shield Replica,Armor,Shield,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/ba82573ef52c05ee19778fda0202ea3180ced378.png?4.06,482e588da2a,50,50
+Aegis Shield Zeta,Armor,Shield,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/ba82573ef52c05ee19778fda0202ea3180ced378.png?4.06,9139260df17,135,50
+Aegis Shield Zeta Replica,Armor,Shield,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/ba82573ef52c05ee19778fda0202ea3180ced378.png?4.06,f1ff0a49e73,50,50
+Aegis Shrimp,Materials,Seafood,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/90/90cd5d86780b2ccf7bd70574e877bf1310870d7c.png?4.06,38bde31319f,0,0
+Aeolian Scimitar,Arms,Gladiator's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/88/88643eb3868d18f4c61c8d8a2459cf04c6d1ecb7.png?4.06,f703d5e7c71,55,50
+Aerodynamics System Identification Key,Other,Other,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/cf/cff6637fdb1586c6fa598bf34328bb1e5a59bef2.png?4.06,752fa081935,0,0
+Aerodynamo Component,Other,Other,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/cc/cc690907f31ef7e2a096eaf1dd82726116dfceaf.png?4.06,6691c0b5e78,0,0
+Aerodynamo Component Materials,Other,Other,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/00/00193984c8d4aee411d863ddf95150b02b20149d.png?4.06,df9f6aae2e6,0,0
+Aether Eye,Materials,Seafood,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a7f502280afbff56aabe3ba2796ded9e2c6d4a47.png?4.06,e31ea9eb313,0,0
+Aether Oil,Other,Miscellany,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b3/b32fd3223732ecfb6e5df9ed8b299dbef3d0196e.png?4.06,333e194da24,0,0
+Aetherial Amber Earrings,Accessories,Earrings,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ea/ea7d30642bb95cbb43b7022928e7676b0b823f74.png?4.06,013622afa11,49,47
+Aetherial Amber Ring,Accessories,Ring,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c5/c5d97d7d6b84727e7b301df6b3f0c21212142d88.png?4.06,45022dca3d1,49,47
+Aetherial Amethyst Bracelet,Accessories,Bracelets,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/da/da86c3108e9c1af47036b028650301aa5608261f.png?4.06,38aa3a003e3,38,38
+Aetherial Amethyst Choker,Accessories,Necklace,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/33/330766d8f20d0863320ca8be7bf213d1609cda1c.png?4.06,8d168fbb349,38,38
+Aetherial Amethyst Earrings,Accessories,Earrings,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4c/4c419adfe66c8db4ae4c2a912771dddddf9fa286.png?4.06,52841e43d82,39,38
+Aetherial Amethyst Ring,Accessories,Ring,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/39/396961217068e13f670b1a3039eb8cf6ddf1b95e.png?4.06,e0a5036ba20,39,38
+Aetherial Aquamarine Bracelet,Accessories,Bracelets,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/09/0944e54f0a46498c2aef8041f325dcda360496ba.png?4.06,da494942044,38,38
+Aetherial Aquamarine Choker,Accessories,Necklace,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/40/402a00f9763d82fdd60df168827958d10eae214b.png?4.06,da032916cb3,38,38
+Aetherial Aquamarine Earrings,Accessories,Earrings,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/30/3076cf52032ae782c16dd084675519a562892190.png?4.06,ee32a58352e,39,38
+Aetherial Aquamarine Ring,Accessories,Ring,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0f/0f3b2a0e589db328bc9ee935bd57237e1b62b557.png?4.06,584181be814,39,38
+Aetherial Ash Cavalry Bow,Arms,Archer's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e5/e5e802640791aa0c648173a6e6538eb430773e83.png?4.06,c10ba56e3a5,32,32
+Aetherial Ash Composite Bow,Arms,Archer's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/75/75db1b179965d26212597714ac2b43dc3a418fb2.png?4.06,25d9db90f30,28,28
+Aetherial Ash Mask,Armor,Head,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5f/5f51e94eec216216361c94786ff32251c1d95751.png?4.06,4d3a6540487,16,15
+Aetherial Ash Mask (Lapis Lazuli),Armor,Head,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1d/1dbb6b0786258228b64523398c0a32ce2dcd9c70.png?4.06,30703e03eaf,20,20
+Aetherial Ash Radical,Arms,Two-handed Conjurer's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e8/e8f3706d739d0bce38d5d819727f1d2c00306015.png?4.06,8d41cb09732,14,14
+Aetherial Ash Shortbow,Arms,Archer's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/96/961f1727a623e397a986be853afd68ed8d5ac76b.png?4.06,5f5bf1ac921,15,15
+Aetherial Ash Wand,Arms,One-handed Conjurer's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b6/b6fe8a8f5225b5958eea6811fa7990c219576d69.png?4.06,80e8d07a588,16,15
+Aetherial Black Horn Staff,Arms,Two-handed Thaumaturge's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b1/b11158bd36f6325d70e4d74dd95144eaaf3071a8.png?4.06,f055dba04c5,44,44
+Aetherial Black Pearl Earrings,Accessories,Earrings,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/be/be348ba0c1de23a7aa6e91815530f36c22603142.png?4.06,aa46c3cd4a8,49,47
+Aetherial Black Pearl Ring,Accessories,Ring,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/94/94a05d6b930aa0b79d20cdaccbb5b326d7e68490.png?4.06,0cf34b836fa,49,47
+Aetherial Bladed Lantern Shield,Armor,Shield,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0b/0b8cf68acb6b29ae933c18fdc7adff212a9d57a7.png?4.06,df1ef6753ba,39,39
+Aetherial Boarskin Belt,Armor,Waist,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/85/850c3aa832f0d3ae3fee1bacbb52e5471f25f22e.png?4.06,4bce450b6d3,43,43
+Aetherial Boarskin Crakows,Armor,Feet,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f7/f7e63274ce28299bddd1c77106f26a39c5ad067e.png?4.06,d6e6022d874,35,35
+Aetherial Boarskin Duckbills,Armor,Feet,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/17/17a4339772361e6925b14c283137b584b72404a9.png?4.06,874b49373f8,40,40
+Aetherial Boarskin Harness,Armor,Body,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b3/b37e02539d5aee1f56e875c8acf56d90870618ea.png?4.06,12b42fb1ee0,37,37
+Aetherial Boarskin Himantes,Arms,Pugilist's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/19/19fce8ee81080a0a56bc5457dc958f7c20475aa6.png?4.06,2c1a709f6ca,35,35
+Aetherial Boarskin Moccasins,Armor,Feet,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/8a/8af595aef8f526f719ec720bcd4944b0fbb5b5ff.png?4.06,78bf2ef174b,43,43
+Aetherial Boarskin Pot Helm,Armor,Head,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a7d62b1575416551c5a6fc3f85bb216c21f1238a.png?4.06,a11522660f3,37,37
+Aetherial Boarskin Ringbands,Armor,Hands,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1c/1cf21bfda67a7d905d3dd40b8a0f6b2cefaf3ba3.png?4.06,56066cdfd15,36,35
+Aetherial Boarskin Ringbands of Flames,Armor,Hands,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ad/adabf6b77499ed82d069e7e819838e67a0222ec7.png?4.06,2718f9b8f39,46,44
+Aetherial Boarskin Ringbands of Tides,Armor,Hands,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/35/35645ea7a9cab61f6c2aac0683cd4a551b2aacc0.png?4.06,ddac57125a0,46,44
+Aetherial Boarskin Satchel Belt,Armor,Waist,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/53/539f545de733f3bafb55974985bc16cdc8005979.png?4.06,817f96b6043,35,35
+Aetherial Boarskin Skirt,Armor,Legs,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b0/b0b138f3615482226bbbf11fbfb6a13722294555.png?4.06,2570a7dc6e0,43,40
+Aetherial Boarskin Subligar,Armor,Legs,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/51/5161e00c7392111ad124f47e03ffb1df5545572a.png?4.06,514f4162229,37,37
+Aetherial Boarskin Wristbands,Accessories,Bracelets,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b7/b7db130c86f94ac7a2b5cdbafc401152d54476f6.png?4.06,6f6f56620b4,37,37
+Aetherial Bone Armillae,Accessories,Bracelets,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5f/5f2683540dc27ba640c80ffeffbbf158d2ace534.png?4.06,aebb48b9b0d,29,28
+Aetherial Book of Electrum,Arms,Arcanist's Grimoire,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b2/b2bcd635642e341d1d2aa26aa2fb04d607f7ef21.png?4.06,0d98c0214a3,45,44
+Aetherial Book of Mythril,Arms,Arcanist's Grimoire,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a4/a40fc93b5d1a52e64fa7c52cb0b36e593de03a8b.png?4.06,6dea1ca310b,41,40
+Aetherial Book of Silver,Arms,Arcanist's Grimoire,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/2a/2a3fd62740c717608b969105b8c9f46a3b1fb910.png?4.06,2494c237622,34,34
+Aetherial Brass Bastard Sword,Arms,Gladiator's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a6/a6d57abe85d0c09940848e520be03667c3625935.png?4.06,8ca8e0ea058,15,15
+Aetherial Brass Cudgel,Arms,One-handed Thaumaturge's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5c/5c0c0f421464ff61adb8d7a8b3b61d5fb4e9eef1.png?4.06,51bdabea022,15,15
+Aetherial Brass Ear Cuffs,Accessories,Earrings,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f5/f5493620f56b01fd45b53c4932a25fb5c6cf22c5.png?4.06,fe18738eb2c,20,20
+Aetherial Brass Gorget,Accessories,Necklace,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/2e/2e4ea5763599e794c4e3007304497f0e2fbe1e23.png?4.06,c9a48ecf114,16,15
+Aetherial Brass Knives,Arms,Rogue's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/98/98e20335d74f43a43778bfe7dd98cfb9f392946d.png?4.06,23928d36357,15,15
+Aetherial Brass Knuckles,Arms,Pugilist's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f8/f836f706ae0a16b93901e53700dcc069a783ebc3.png?4.06,a2e9953ef20,16,15
+Aetherial Brass Viking Sword,Arms,Gladiator's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c0/c035fb7e6a8ae6c62043443b26a2ee4aafa69260.png?4.06,706e73e2933,18,17
+Aetherial Brass Wristlets,Accessories,Bracelets,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/82/822a531c9d3b8f8e3810b78122b3d88f7dbc530c.png?4.06,4783b2a1881,16,15
+Aetherial Bronze Celata,Armor,Head,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/98/9877d66bd3b9aadf6ca78aa6633971754ba5172b.png?4.06,2f15b2f9d14,15,15
+Aetherial Bronze Cuirass,Armor,Body,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/03/037b59e398c27ad996057b317ea9bc18b1e101c3.png?4.06,db625211bc5,15,15
+Aetherial Bronze Gauntlets,Armor,Hands,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d3/d36a6bf1b60e47bbb12a0b2a660eef2f521bf6e3.png?4.06,e81868f91d4,15,15
+Aetherial Bronze Plate Belt,Armor,Waist,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/17/17ad7f6de3d8c16aaf2dac4fe1b5a643c84b446a.png?4.06,39a9cd04404,15,15
+Aetherial Bronze Sabatons,Armor,Feet,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/94/946414822c94af8e0ba217b767f8fb9ef5872306.png?4.06,9c971b89ec8,15,15
+Aetherial Buccaneer's Bardiche,Arms,Marauder's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/df/dfff8b32cff32e581bfd07e5d403abdabfe6f2ad.png?4.06,0c5a3eeafa5,45,44
+Aetherial Budding Ash Wand,Arms,One-handed Conjurer's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ed/ed91925c983e469cb030cb0982cc400e4c50e5bb.png?4.06,a4761647b3d,21,20
+Aetherial Budding Oak Wand,Arms,One-handed Conjurer's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06fab28572ce1f2ae2c4bbc39433053383c21d4c.png?4.06,84f148d462e,38,35
+Aetherial Budding Yew Wand,Arms,One-handed Conjurer's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/31/31a3c4febf440bbf92acc493cb07d2df7b64ec7c.png?4.06,7d8fd7e4756,34,34
+Aetherial Bull Hoplon,Armor,Shield,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e3/e3d6f5ca951cb9cbc9bb955956580bcc96e78569.png?4.06,37fa4e167b0,31,31
+Aetherial Carnage Sword,Arms,Gladiator's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9f/9f98b568f26729deb631a9a01fed459664df88ab.png?4.06,e04aed4ad8e,20,20
+Aetherial Cavalier's Hat,Armor,Head,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/be/be11f09a5d9c959fe2990e3f4cf78f94a0deb50e.png?4.06,a3c7c18b34c,44,44
+Aetherial Cobalt Barbut,Armor,Head,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/2a/2a126ff0ed06dcdd82850f41f9bc5fbd875cd8a4.png?4.06,c402df32a8f,47,45
+Aetherial Cobalt Cavalry Bow,Arms,Archer's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/3b/3b1aa31d8ab04f0c3bf54f597b41544f64771c55.png?4.06,b15490bed84,43,40
+Aetherial Cobalt Celata,Armor,Head,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/2c/2c557d3e3646a9951beb933885ff5bbb0076716d.png?4.06,f3779ae5650,49,47
+Aetherial Cobalt Chain Coif,Armor,Head,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/40/40e7636e944ecb9791e4880733df3fea5e5bb9db.png?4.06,d415d78b2df,48,45
+Aetherial Cobalt Claymore,Arms,Dark Knight's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d5/d5397b2efb3261640cccfdaaed6dd73f08e36c7b.png?4.06,689f64f2921,45,44
+Aetherial Cobalt Cuirass,Armor,Body,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/8b/8bc307485ed00ea93dd3c069295696f73bb99ab9.png?4.06,da5686093d8,49,47
+Aetherial Cobalt Elmo,Armor,Head,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a3/a320a494b306df80faa39fdf36675ccb772ef1f2.png?4.06,da48d10f6b5,46,45
+Aetherial Cobalt Gauntlets,Armor,Hands,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/89/8958ee5ecdbdec6fe9db9e00d1259d8acbb2adb9.png?4.06,7fa74090460,49,47
+Aetherial Cobalt Halberd,Arms,Lancer's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b6/b6938a73bfd0bde69dcb8fb2b8f520a9ded9f10f.png?4.06,1ece989071d,43,40
+Aetherial Cobalt Haubergeon,Armor,Body,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/94/94aafb55165e202cfc642f7af6f5fd110c9dc095.png?4.06,c50fa0705d9,48,45
+Aetherial Cobalt Katzbalger,Arms,Gladiator's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d5/d544c87918bbb15029b04c691ad7f5cfb87b6ddc.png?4.06,f12d9364909,43,40
+Aetherial Cobalt Knuckles,Arms,Pugilist's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d2/d2b6ad2abac8f15f57ba1dd73df6ca8e2d22c829.png?4.06,acee21acadd,43,40
+Aetherial Cobalt Mitt Gauntlets,Armor,Hands,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f6/f62cbeade03ac58fc53eff5cee0aca2e37055eda.png?4.06,3b9fafdfcc5,47,45
+Aetherial Cobalt Plate Belt,Armor,Waist,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/96/96b4a547d8cdab9efb82f8e628d70262f6a00f67.png?4.06,d610bd41a88,49,47
+Aetherial Cobalt Sabatons,Armor,Feet,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/15/156944fddd2dab6ed2e1d74d9cdd6ef1cc4962e7.png?4.06,dc11f1f7719,49,47
+Aetherial Cobalt Sallet,Armor,Head,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/bb/bb5f1e40ef2fcc6846fd6e016c952015fdab5a9f.png?4.06,4c96a024305,49,47
+Aetherial Cobalt Scutum,Armor,Shield,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/24/24693c09c891061ed746a9c8243ab681825ff59e.png?4.06,46339af120e,44,44
+Aetherial Cobalt Shamshir,Arms,Gladiator's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1d/1d7eb7f0e3550add05b59e13dce7d77d361fd4b9.png?4.06,86e79a24bce,46,44
+Aetherial Cobalt Sollerets,Armor,Feet,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/00/004781b81603863e1e33b27650ec3cd2d27b0b57.png?4.06,788a3debc9e,48,45
+Aetherial Cobalt Trident,Arms,Lancer's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/44/44e3ef7a98316fafcd6c76221febadbebd52b894.png?4.06,cbf80db9a15,46,44
+Aetherial Cobalt Vambraces,Armor,Hands,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4d/4d7c89878a099c1fa23a68dd53ac823d3dcad702.png?4.06,e8ef7ea2467,45,44
+Aetherial Cobalt-barreled Carbine,Arms,Machinist's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/91/91195f6ff479fda6bcf7709d5a5d620c6913a594.png?4.06,0dece33dcb8,45,44
+Aetherial Cobalt-plated Caligae,Armor,Feet,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5d992a048ab113c212a79a64d9f78546a067962e.png?4.06,3f1a85f2131,47,45
+Aetherial Cobalt-plated Jackboots,Armor,Feet,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/91/91cac2511d9a1af48120ef7df5c2366731d3c60b.png?4.06,f1f5cdfd8fe,46,45
+Aetherial Coral Armillae,Accessories,Bracelets,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d6/d69d685fb2f880a7a84150d8c7a615517d9b3bca.png?4.06,b4a8d4ec615,19,19
+Aetherial Coral Ring,Accessories,Ring,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4b/4b9ca694fa96d1e687ed9b4308518264fd8302b7.png?4.06,1c7ac2bfe95,19,19
+Aetherial Cotton Bracers,Armor,Hands,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/40/407b1f15b49f959d392231646625481ee69047fd.png?4.06,fd568d9ac66,23,23
+Aetherial Cotton Breeches,Armor,Legs,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a1/a13125f92899adfd11221d56f08fc19ba6d75211.png?4.06,713183735fe,19,19
+Aetherial Cotton Coif,Armor,Head,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9d/9dee5f5b53d60bb9855cbd1426160c56e09a53e8.png?4.06,a9033574614,19,19
+Aetherial Cotton Cowl,Armor,Body,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/cc/cc26944442e4a01ded62d2aefd89ae0f9cb9b45b.png?4.06,b1d4b56c4b2,15,15
+Aetherial Cotton Dress Gloves,Armor,Hands,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dcb1ba6d5d7e08d5d4d677ab07bebb719733eab.png?4.06,0d4306fd9b4,21,20
+Aetherial Cotton Dress Shoes,Armor,Feet,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b2/b276829f1265fda403ba2777789e3f33d9cba947.png?4.06,f1955b0e290,22,22
+Aetherial Cotton Gaskins,Armor,Legs,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/3c/3ced961c0f8a72c81f8b51273e291d3ffd5156d9.png?4.06,93e5bb4fbc4,22,22
+Aetherial Cotton Halfrobe,Armor,Body,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ae/ae937ccfcecd71204e433a49b03a3c0fb8c09c9c.png?4.06,d3523c3ac62,21,20
+Aetherial Cotton Kecks,Armor,Legs,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/22/2242ad9d319acc268bde52fc14ed93298e3f031f.png?4.06,69332246181,23,23
+Aetherial Cotton Robe,Armor,Body,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/af/af062721c0be7e5584e9d3aaec91a15af45ad2c5.png?4.06,2d156f68581,24,24
+Aetherial Cotton Sash,Armor,Waist,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a1/a12cfd73984eda1ed402731852241ad89d61b9fd.png?4.06,0e58b3cffc2,21,20
+Aetherial Cotton Sugarloaf Hat,Armor,Head,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/57/573b03c03fa8d1f371912074739792e4c931930b.png?4.06,dc4e3e8f197,22,20
+Aetherial Cotton Tabard,Armor,Body,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0e/0ee5110724f3859a375c39d9ab6038cfc7aec69c.png?4.06,ce895cb9ddf,16,15
+Aetherial Cotton Tights,Armor,Legs,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/60735acfcdbcfd7bb5fd75a52f640af627b7c77d.png?4.06,d576d68b336,15,15
+Aetherial Cotton Trapper's Tunic,Armor,Body,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/cc/cc413a1356569169e02fe0e8032513f81f844de9.png?4.06,59d677614e7,23,23
+Aetherial Crabshell Hora,Arms,Pugilist's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e0/e0e60b8d084943c4b43a9ae4bbf0e7e8e556131a.png?4.06,44fd42a9406,32,32
+Aetherial Danburite Bracelet,Accessories,Bracelets,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0d641599a4b88a5da34c68ac81acc9f60ef963e3.png?4.06,ae000bcdf93,28,28
+Aetherial Danburite Choker,Accessories,Necklace,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/3a/3af3f1c29853af03672b30c0fa237d8f13a7bbba.png?4.06,9efc1db9c6d,28,28
+Aetherial Danburite Earrings,Accessories,Earrings,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a9/a98e3e5b139bb9152e4d1ca779fc276561a28cf5.png?4.06,8a846b644f9,29,28
+Aetherial Danburite Ring,Accessories,Ring,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a9/a9886f3d66732b108fb0bffc12686c471dcb0f9c.png?4.06,868885c0bc2,29,28
+Aetherial Decorated Buckler,Armor,Shield,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1a/1ac9f3e4200badcdbff517a5ce873630dbbc3cd1.png?4.06,d2d5a53b205,34,34
+Aetherial Decorated Copper Scepter,Arms,One-handed Thaumaturge's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/21/21372083fb7c78477b515dfe52ff8c3c6665c54a.png?4.06,083a118a610,18,17
+Aetherial Decorated Iron Scutum,Armor,Shield,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c8/c8d44cda1ba775fe79549ba1a577232ad8b4caa9.png?4.06,0bf1e8dde6d,36,35
+Aetherial Decorated Silver Scepter,Arms,One-handed Thaumaturge's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/2f/2f227c89bb11c456435eaa62dce7eb5554b62ab0.png?4.06,9465ab3bf3a,33,32
+Aetherial Demilune Bhuj,Arms,Marauder's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/6a/6a55e3267488d3cd25b3325081551f8575783d6e.png?4.06,cec7256b12a,48,45
+Aetherial Eagle-crested Round Shield,Armor,Shield,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5e/5e9acdde58f4d6129dc2fa50de0137bfdc68e3e1.png?4.06,e668b521c61,45,45
+Aetherial Earth Brand,Arms,One-handed Thaumaturge's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a704f83e485171a8ca1f0cc7fb5247a03164b8fe.png?4.06,37bb40d8cec,31,30
+Aetherial Electrum Circlet (Rubellite),Armor,Head,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/59c9aacdb21acd583515a867379573bce4493cd8.png?4.06,920f05deeb9,48,45
+Aetherial Electrum Ear Cuffs,Accessories,Earrings,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/43/43e45410431ac09c494c77554fac77cbdae3df77.png?4.06,fc4fdebb162,49,47
+Aetherial Electrum Gorget,Accessories,Necklace,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ab/ab5e9709bf893c79df434beab541f935bf5ce02e.png?4.06,200e4e763d0,46,45
+Aetherial Electrum Monocle,Armor,Head,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e4/e47dd7bce90641f2311a5aafb088500292ddcbe1.png?4.06,29ac0536628,47,45
+Aetherial Electrum Ring,Accessories,Ring,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ce/ce45e68a39a6a0c98e8133bb82623cbcf02df88e.png?4.06,c484db6ba05,47,45
+Aetherial Electrum Scepter,Arms,One-handed Thaumaturge's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c8/c86ffec6ed16bd687382ea7c6024ad5100bcd1e8.png?4.06,fdef8f9d7c0,43,40
+Aetherial Electrum Star Globe,Arms,Astrologian's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e2/e2da4930165e0783c0e0b77c3ff05dc197748a6c.png?4.06,b8599dd39e4,45,44
+Aetherial Electrum Wristlets,Accessories,Bracelets,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/30/3028d9593c557a6e230fdd5d1d922ea68538ded2.png?4.06,6948616d89f,46,45
+Aetherial Elm Cane,Arms,Two-handed Conjurer's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f4/f41cb1304cf4e53bdf8ce60d283e145234d73ce2.png?4.06,c8b95f6e180,17,16
+Aetherial Elm Crook,Arms,Two-handed Conjurer's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/71/71b79b1661458a7bece5ae6e80f3d9b3c5fa4b43.png?4.06,7015194861d,20,20
+Aetherial Elm Longbow,Arms,Archer's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/3f/3f7cec038b2fb6b02b955db5a706e7eb24155c1a.png?4.06,df9d2d67330,18,17
+Aetherial Elm Macuahuitl,Arms,Gladiator's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/bc/bc9fbda6cd9c4c51a4bf0c9a50b2df053dc12aa8.png?4.06,60a0344b70b,28,28
+Aetherial Elm Velocity Bow,Arms,Archer's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7d/7d317a6a1e9a44cb1435e4c513ca0fe2defbd32c.png?4.06,c5e75db4f26,21,20
+Aetherial Embossed Book of Silver,Arms,Arcanist's Grimoire,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/2a/2a3fd62740c717608b969105b8c9f46a3b1fb910.png?4.06,52fd302b1c2,38,38
+Aetherial Engraved Goatskin Grimoire,Arms,Arcanist's Grimoire,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/49/490e90ccccd57392ad6d9e13409b588d930b0c42.png?4.06,8e08a1d5a70,30,28
+Aetherial Engraved Hard Leather Grimoire,Arms,Arcanist's Grimoire,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/57/573b53d9e83130161c3d36a5a34681b19c876bbc.png?4.06,ba72f4728da,20,20
+Aetherial Felt Bliaud,Armor,Body,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b2/b21c4e36bc804099e8aa3b5dd06ca6a0c3d96a74.png?4.06,dc1cf9929de,49,47
+Aetherial Felt Bracers,Armor,Hands,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/78/78dfee2f02f3cae52673a3e486b698678e64bd70.png?4.06,70ada9a4e4e,48,45
+Aetherial Felt Cavalier's Hat,Armor,Head,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f8/f87a13ac206cf8d4835cc2e9831449f27ebe3ab9.png?4.06,c19f87686a7,49,47
+Aetherial Felt Coif,Armor,Head,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f1/f1337a9009211a92dddbb20e850a6de377e45969.png?4.06,ea30424db4a,45,45
+Aetherial Felt Dress Gloves,Armor,Hands,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e3/e36e408e5acff8d1992df6decd4ff46a754524f3.png?4.06,990372b922f,49,47
+Aetherial Felt Dress Shoes,Armor,Feet,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/94/9450ad64e811e3915eb94ade11901dc6e2db1e0d.png?4.06,1125030fbd2,49,47
+Aetherial Felt Gaskins,Armor,Legs,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/be/bea066d54087d6830bf6b4ebef4f255b0912e2cd.png?4.06,6c28907aaf5,49,47
+Aetherial Felt Hat,Armor,Head,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/77/771b448c5a0d71e20c0a502db3d57a332e92ba99.png?4.06,f8fb1f4dafd,46,45
+Aetherial Felt Kecks,Armor,Legs,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7d/7d500f26e6b03c709864330fc6e039ce0fc3bc54.png?4.06,af888decf05,48,45
+Aetherial Felt Robe,Armor,Body,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/eb/eb3dfe83c9c39a6482b998497a845d47ea6eb9b7.png?4.06,b46867e7fe0,46,45
+Aetherial Felt Sash,Armor,Waist,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16652ffa170b4166201f08d28513eb7a1d5194f5.png?4.06,3ec42fa7025,49,47
+Aetherial Felt Trousers,Armor,Legs,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d8/d81d1b9b808f00a7dbd32bd1f9e6cdfe8bcaa496.png?4.06,e313e196685,50,49
+Aetherial Fingerless Boarskin Gloves,Armor,Hands,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a9/a900a59333e126eb31d1228848b3bc963bb11165.png?4.06,13cf51f6d14,35,35
+Aetherial Fingerless Goatskin Gloves,Armor,Hands,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/25/2577d9959594f479c4656cbe8c3c66d9d456a28e.png?4.06,b5186a388d4,25,25
+Aetherial Fingerless Peisteskin Gloves,Armor,Hands,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ca/ca602ee0be22715352e7b3db139606de3f7e3ba7.png?4.06,353339e8f52,40,40
+Aetherial Fingerless Raptorskin Gloves,Armor,Hands,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/8f/8f4ad1f55ccfd74ae417d90aa60606dea05aa411.png?4.06,d471ebb9d50,45,44
+Aetherial Fire Brand,Arms,One-handed Thaumaturge's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d5/d552405c8c5f315886f09520f72af88cb9477440.png?4.06,eed2a21a899,36,35
+Aetherial Fluorite Bracelet,Accessories,Bracelets,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/8a/8ad929dec1293f386099956f8e63ac2a12bb8603.png?4.06,073afa20ae1,28,28
+Aetherial Fluorite Choker,Accessories,Necklace,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/09/0910d1dc56eebb9faf48b46964cdab044e390722.png?4.06,99339fd9ad8,28,28
+Aetherial Fluorite Earrings,Accessories,Earrings,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/70/704db6fa73741b94602a47c5cf5af28a44ebdc6a.png?4.06,182395a1347,29,28
+Aetherial Fluorite Ring,Accessories,Ring,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/45/45bc50e44b9fe3ef89a0b39b1ecc4535ec1be4c2.png?4.06,358663614c4,29,28
+Aetherial Garnet Bracelet,Accessories,Bracelets,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/19/19355f0344b5dc74f62537ccaf76fa739510a792.png?4.06,e71f241a059,38,38
+Aetherial Garnet Choker,Accessories,Necklace,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/45/451a7cb91801daffb2c3d0e9423bc2395f6830d0.png?4.06,2fb3c989f89,38,38
+Aetherial Garnet Earrings,Accessories,Earrings,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5a/5ae5bbe649ebe551178bdc3febead8236051615a.png?4.06,b9e567e8b28,39,38
+Aetherial Garnet Ring,Accessories,Ring,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/28/281dda1c7f91578a353662ae8da651fb15d1b4cd.png?4.06,b8429410a74,39,38
+Aetherial Goathorn Staff,Arms,Two-handed Thaumaturge's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/62/622104fafefdadc50fa5b0e940cfa9be6a605378.png?4.06,033b58193c8,31,30
+Aetherial Goatskin Armguards,Armor,Hands,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4b/4b648bd05f2b8c2065819e88445e2d82fcddefe4.png?4.06,9c74e6020b7,20,20
+Aetherial Goatskin Belt,Armor,Waist,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/8f/8f348d5eec625b97814e3b0eb29837cd655ecc39.png?4.06,ec0adf5dff1,23,23
+Aetherial Goatskin Brais,Armor,Legs,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/75/75e53a1654075505ba03d4e3b74af1bb793ad224.png?4.06,e272770a950,20,20
+Aetherial Goatskin Crakows,Armor,Feet,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/fe/fe840f8e9270a9334c584751fdcfd2676ec2f92f.png?4.06,5c8e66990c2,25,25
+Aetherial Goatskin Duckbills,Armor,Feet,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ef/efa3972aab245e6256fe20d56c704427fe3a4670.png?4.06,908929c62e8,24,24
+Aetherial Goatskin Eyepatch,Armor,Head,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b4/b4f132caadcb98ee51d9108a928fe1311a26516f.png?4.06,25f673d8afe,20,19
+Aetherial Goatskin Grimoire,Arms,Arcanist's Grimoire,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/49/490e90ccccd57392ad6d9e13409b588d930b0c42.png?4.06,f01c0309e1e,26,24
+Aetherial Goatskin Jacket,Armor,Body,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/80/80c3ad0476d424a76eaa7a478f5bdc39897fe864.png?4.06,d9276e75ba3,20,20
+Aetherial Goatskin Leg Guards,Armor,Feet,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/43/43926d6b6e53d7da31b8a00568b674a55a6c3e16.png?4.06,4edb0d999da,20,20
+Aetherial Goatskin Lightmitts,Armor,Hands,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/cd/cdac1a604bfe444a646e0af0bc0bc1d4328d3331.png?4.06,1f638d066d9,23,23
+Aetherial Goatskin Mitts,Armor,Hands,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06d797e38a9eee702667c051302ba2a4d7b84f15.png?4.06,376cb5d900b,17,16
+Aetherial Goatskin Satchel Belt,Armor,Waist,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/32/32874ec54b7b6e83c5407a347bec04887297e3c1.png?4.06,50e41cca2d9,23,23
+Aetherial Goatskin Targe,Armor,Shield,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e3/e30c005a2744f0ec30366aa8f2c1482c0cc1a216.png?4.06,06fedfa7263,28,28
+Aetherial Goshenite Bracelet,Accessories,Bracelets,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/68/68c0c94c62fe0b56235e6ccb9df9b045c391af36.png?4.06,f5aca6493e5,38,38
+Aetherial Goshenite Choker,Accessories,Necklace,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ad/adbf5b9d2b367fb688adce78acb90b135bd95658.png?4.06,3f18a5e7275,38,38
+Aetherial Goshenite Earrings,Accessories,Earrings,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/10/103d21e0c3668cc417971a654e6905f38d411dd6.png?4.06,50c423d3727,39,38
+Aetherial Goshenite Ring,Accessories,Ring,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e6/e60c25add63277a4f03e68bb0e7ff03307b10003.png?4.06,e3bb0d5ae5d,39,38
+Aetherial Hard Leather Belt,Armor,Waist,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/85/850c3aa832f0d3ae3fee1bacbb52e5471f25f22e.png?4.06,1ba0b278460,17,16
+Aetherial Hard Leather Boots,Armor,Feet,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/55/553763608fdb14a61ba6628f80e96a8e22dd6cda.png?4.06,99c8431f659,15,15
+Aetherial Hard Leather Cesti,Arms,Pugilist's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7d/7d925c0c8a800dc7e6a8d33a9ecd9f2d354e1053.png?4.06,6fcb92d60e0,19,19
+Aetherial Hard Leather Grimoire,Arms,Arcanist's Grimoire,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/57/573b53d9e83130161c3d36a5a34681b19c876bbc.png?4.06,b3ea5d01b20,15,15
+Aetherial Hard Leather Ringbands,Armor,Hands,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/3d/3dbca9732ee8318c7474e3a89e7850b52e2c91a5.png?4.06,47dc2345d50,16,15
+Aetherial Heavy Iron Armor,Armor,Body,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a1/a1edf733733d7549fe633010a4c821f0e664dd42.png?4.06,8a2063ba658,25,25
+Aetherial Heavy Iron Flanchard,Armor,Legs,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/38/38b6cbd14afdca7e8b7fb7ca6ac20fbedf0fefc4.png?4.06,45aed077531,25,25
+Aetherial Heavy Iron Gauntlets,Armor,Hands,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9a/9a0bb721f3738723837aa1d33ded4cf77422f6da.png?4.06,b56c42c6cc3,25,25
+Aetherial Heavy Steel Armor,Armor,Body,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/3a/3af0661e7cbbe7f4dc0d5aadea5077af7cd79b5f.png?4.06,3ac5b22beca,35,35
+Aetherial Heavy Steel Flanchard,Armor,Legs,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4c/4c1206d546005301f720f53b1898921ab062cb8c.png?4.06,d1e7f3250a5,35,35
+Aetherial Heavy Steel Gauntlets,Armor,Hands,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/32/3291207d998fb549ab1e6c554053813cc7244905.png?4.06,326f0da26d7,35,35
+Aetherial Heavy Steel Spear,Arms,Lancer's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b6/b624344a8fa2abf5e264e1e2dc26ac24face670f.png?4.06,14cbf4bf592,34,34
+Aetherial Heliodor Bracelet,Accessories,Bracelets,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ff/ff33eaf652a18ed1e40310316e07af50093dc5e0.png?4.06,d3bc6f60949,38,38
+Aetherial Heliodor Choker,Accessories,Necklace,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/2c/2c3b5c9929e55f71cd11601987cdcd6786409db2.png?4.06,b2df5707f50,38,38
+Aetherial Heliodor Earrings,Accessories,Earrings,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a5/a59cc7fb159f6a471d6ed6f7312d21297a8c6b89.png?4.06,eb2bcc8b094,39,38
+Aetherial Heliodor Ring,Accessories,Ring,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0b/0b6a9a23df50b590827111dd5304836627001223.png?4.06,01ade082b33,39,38
+Aetherial High Mythril Armor,Armor,Body,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/da/dafd7464c5da315d93247115132923e657c3fbec.png?4.06,c96de68d956,44,44
+Aetherial High Mythril Flanchard,Armor,Legs,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/fc/fc6510fd5ff94dfcee1489f74d65ca63fa5fa18f.png?4.06,d4eb4f0eb0c,44,44
+Aetherial High Mythril Gauntlets,Armor,Hands,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f6/f6d3b98350ea77a239f1ddcc22397224615c71ff.png?4.06,0b52cda7645,44,44
+Aetherial High Mythril Plate Belt,Armor,Waist,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/2a/2ad133353c2f910e1a003a3a08755643e04130d8.png?4.06,271f859d26f,44,44
+Aetherial Horn Ring,Accessories,Ring,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/2a/2a5209a61217e0aeb505869e8ea56131235ef0df.png?4.06,73b648d8430,29,28
+Aetherial Horn Scale Mail,Armor,Body,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/85/8512ff589efbd2694ed50b30f99361de303b396f.png?4.06,0c861a23dad,38,38
+Aetherial Horn Staff,Arms,Two-handed Thaumaturge's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/36/360c70f1b8d7e73c1f80d500dd3a6830ab5d1dd0.png?4.06,e52970bc3be,39,38
+Aetherial Hunting Hat,Armor,Head,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/2f/2feff7db4c543bfec2dd1626446b22be25e218fc.png?4.06,1d33c73c2a4,16,15
+Aetherial Hunting Moccasins,Armor,Feet,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a0/a0857c9dbf38c333cf9f3d38a1417645de83e170.png?4.06,000a3ea9b00,48,45
+Aetherial Inferno Axe,Arms,Marauder's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ed/ed63085e8a3d7e829131bacb5cf43dbe7929fbed.png?4.06,a9b2ed7bc6d,20,20
+Aetherial Iron Bill,Arms,Marauder's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/46/46d451c3a02e51a9cb2401ef86b3124fa92717b6.png?4.06,10e644d3ecd,23,23
+Aetherial Iron Celata,Armor,Head,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ce/cea31a81ffcf30364dfbcbc74714440e405af07c.png?4.06,b1fddd30129,20,20
+Aetherial Iron Cuirass,Armor,Body,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/2b/2ba7407935c388fbd007ee59636e8ca99076e39f.png?4.06,8882d3276b5,20,20
+Aetherial Iron Daggers,Arms,Rogue's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f9/f9da75c69e73f5106a7b7401b365574ba61b4ea8.png?4.06,cc20726e46f,20,20
+Aetherial Iron Elmo,Armor,Head,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/67/67a1cc8303bd346fb4189d14287a3baf76698b0d.png?4.06,c324f1d0257,23,23
+Aetherial Iron Gauntlets,Armor,Hands,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9a/9a6e88bc74612f5ee048030d57321f34b10834c9.png?4.06,461b63cc0d9,20,20
+Aetherial Iron Guisarme,Arms,Lancer's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/07/07111181c4eb6623684eb47072927f7823cf0e4d.png?4.06,7cfd43a0992,23,23
+Aetherial Iron Labrys,Arms,Marauder's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/2b/2b00dbdafd92fe8657aea4c0a0b3d4e4d34e7811.png?4.06,a84000c9527,18,17
+Aetherial Iron Lance,Arms,Lancer's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e8/e8dfe817fc89f4cf6cbc303e0572ff339e64ba87.png?4.06,2be3a19786c,20,20
+Aetherial Iron Plate Belt,Armor,Waist,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7ed823a93081364b41e1df7f5a0deb06688623c8.png?4.06,0f98fdc5ed3,20,20
+Aetherial Iron Sabatons,Armor,Feet,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5c/5c52d4480f7b9c26d554e72b9821b163340bb73f.png?4.06,33567ebdfe9,20,20
+Aetherial Iron Sallet,Armor,Head,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/2a/2a15db545b8ce4726b72eeb6e540e68b5b6e75c3.png?4.06,4b0d8f4cfbd,20,20
+Aetherial Iron Scale Mail,Armor,Body,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a8/a8bea35c82e65f413f7cd9529fb5fd534ec7ca1c.png?4.06,c3a5567da86,23,23
+Aetherial Iron Scutum,Armor,Shield,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/15/158e0b900b21779cdf0ea817b5afd0148baad89f.png?4.06,251f23ea93d,23,23
+Aetherial Iron Spatha,Arms,Gladiator's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/01/010c52cabc603a8ebe8034decd9b02cc6481a930.png?4.06,04be23caa55,24,24
+Aetherial Iron Spear,Arms,Lancer's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/dd/dd360bc72d6794d70644ba6fb78afa68d53448c0.png?4.06,3488decdb91,16,15
+Aetherial Iron Vambraces,Armor,Hands,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e1/e1839b154cdf8801e7464bbd18d0a82ffd502ebd.png?4.06,cbc14f59680,19,19
+Aetherial Iron War Axe,Arms,Marauder's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d3/d328a01fbabf762893bda6e043fbd8fe6719f046.png?4.06,1a991ff4c4f,15,15
+Aetherial Ironclad Boots,Armor,Feet,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9a/9afdefbfdc605b2e8a82974fca10ecae0abd95ee.png?4.06,22fb8e07d36,23,23
+Aetherial Ironclad Buckler,Armor,Shield,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e9/e93e5ce695108302dc59abb02996021b770a9596.png?4.06,526e0df2929,21,20
+Aetherial Jade Crook,Arms,Two-handed Conjurer's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d6/d6d503de79ddd3c730a931e496390845eb2cc2f2.png?4.06,ebf59ec58af,45,44
+Aetherial Kite Shield,Armor,Shield,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/cb/cb9a2d91e14647f25888e9194e4c7a49271e602b.png?4.06,2fb2443acbb,48,47
+Aetherial Lapis Lazuli Bracelet,Accessories,Bracelets,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/bf/bfe3e8e886522206a2647aa7bb007a5915d84b7a.png?4.06,9b2ac6076b3,28,28
+Aetherial Lapis Lazuli Choker,Accessories,Necklace,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c0/c01266b0c58f90e6edb30243363ec118662d82c1.png?4.06,efdc8b74b81,28,28
+Aetherial Lapis Lazuli Earrings,Accessories,Earrings,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b0/b0e1d35cf7a35e1516a6ecae430cdd8c426ec0c0.png?4.06,73534ceecdc,29,28
+Aetherial Lapis Lazuli Ring,Accessories,Ring,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/eb/eb737afbfe06ed025ebf4a2ae3d3e6be899befa7.png?4.06,2cb72211dc2,29,28
+Aetherial Lightning Brand,Arms,One-handed Thaumaturge's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d0/d0d67a959bd778ab2a2aaf3b6e38ff1e03161826.png?4.06,c66d7c8f716,41,41
+Aetherial Linen Cowl,Armor,Body,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/18/184243a9d2027c38f3bbece41153fd63fb8de173.png?4.06,7de0786f933,37,37
+Aetherial Linen Hat,Armor,Head,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c3/c3dc582ce39c3109ccac5055795db23ee085ab29.png?4.06,8795489783b,36,35
+Aetherial Linen Longsash,Armor,Waist,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/50/501cc2e225bb6e88c4ad738a368309b60351d441.png?4.06,eac887a504f,37,37
+Aetherial Linen Robe,Armor,Body,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/72/72d60af783a286a2c33b2f133ef011c0ae0c6929.png?4.06,8ca513498fb,36,35
+Aetherial Linen Sarouel,Armor,Legs,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/2c/2c544bbcc11c667342776051a25f2815d30212e8.png?4.06,d85dd298497,35,35
+Aetherial Linen Shirt,Armor,Body,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/52/52b5e9d661fccb62cd6f58ea8ec5aa7fd5d7acfd.png?4.06,7aef20ed8ee,35,35
+Aetherial Linen Tights,Armor,Legs,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/44/44f53430662c4155156c9191d306f531c991ca50.png?4.06,b4f634f0938,36,35
+Aetherial Linen Trousers,Armor,Legs,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/de/de0a94b0a77f9d9ba71b624ddc427403bd88db26.png?4.06,030927909c0,36,35
+Aetherial Linen Turban,Armor,Head,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f9/f988ecb70dedaafc75cf9ccab0af83cf2d5a7d30.png?4.06,fed83d19d94,35,35
+Aetherial Malachite Bracelet,Accessories,Bracelets,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9d/9db5e161596a7cba3762567116889b038e0bafb6.png?4.06,9b98407edbf,28,28
+Aetherial Malachite Choker,Accessories,Necklace,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/01/0188d4d15a5a7679788641568d8329f9c52d643a.png?4.06,f4dd11d4740,28,28
+Aetherial Malachite Earrings,Accessories,Earrings,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d6/d6e3f33995fe829b978802c513259ced2574fde3.png?4.06,a38a4dcafbc,29,28
+Aetherial Malachite Ring,Accessories,Ring,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/aa/aad62379e82482be820c016240dee3f4726af6cd.png?4.06,a4c09c822b1,29,28
+Aetherial Mythril Barbut,Armor,Head,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/66/6687e2606e3ddd60cc72547b833ed75a12ae1871.png?4.06,a3e16d9c760,42,41
+Aetherial Mythril Baselards,Arms,Rogue's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1b/1b1e82ec69a73bd3818cf37f23676de6d8d6252e.png?4.06,8f70fd79843,41,40
+Aetherial Mythril Bhuj,Arms,Marauder's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/168fd1e7e645b70bd5e4635551dab6ea3b08faaf.png?4.06,0a4d1df9571,41,41
+Aetherial Mythril Broadsword,Arms,Gladiator's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/85/85c2799ae9de82216509c11b9100d1ceca9a3ca2.png?4.06,6ec5aaaad53,38,38
+Aetherial Mythril Cavalry Bow,Arms,Archer's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/99/9956b6d628111783fbdb9699a787d497e1bbe913.png?4.06,80d3b775543,37,37
+Aetherial Mythril Celata,Armor,Head,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e1/e1c78a669715883f85ecbd8802a9281abad69449.png?4.06,0a96c03aaa1,40,40
+Aetherial Mythril Chain Coif,Armor,Head,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/5981332cca7b33c2c7fef3d28256eded1a26a936.png?4.06,863900cd2c3,43,40
+Aetherial Mythril Circlet (Amber),Armor,Head,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/32/3202a2ab856bc89b5f1711e93d15a65fb0365eb2.png?4.06,d72fb5456f4,38,38
+Aetherial Mythril Circlet (Rubellite),Armor,Head,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/81/819394fb76095aadd8fd7eb8d569478126a2ae1a.png?4.06,4aaab1ba951,38,38
+Aetherial Mythril Circlet (Spinel),Armor,Head,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/2a/2a1cb03c3f69f9d03a4528a00ba8e25d95c13df7.png?4.06,89f8056bd27,38,38
+Aetherial Mythril Circlet (Tourmaline),Armor,Head,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b6/b69ca98bcbc0da8ba8e9beeafba0f34e2db01fce.png?4.06,4d3bcfffa67,38,38
+Aetherial Mythril Circlet (Turquoise),Armor,Head,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/de/dec751b81c843276944b878735d49dfc7ab063bc.png?4.06,543e43b6531,38,38
+Aetherial Mythril Circlet (Zircon),Armor,Head,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c7/c7fbd6e23dd9ca5999ed0f9a4e6dd185bec10ae3.png?4.06,133bbfb91ea,38,38
+Aetherial Mythril Claws,Arms,Pugilist's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/11/11dbeb99817aa3795fe77530f15718f4e253178b.png?4.06,d58fe5d855b,38,38
+Aetherial Mythril Claymore,Arms,Dark Knight's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/67/67a878f29a1705a76947dc4fdc1bc9d60ddfe295.png?4.06,58c6ac414bd,38,38
+Aetherial Mythril Cuirass,Armor,Body,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/fd/fd51e10a2977f6b63c2cdfc1f6aa791e37bbc17d.png?4.06,04824586185,40,40
+Aetherial Mythril Ear Cuffs,Accessories,Earrings,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/bd/bd92ebdbf42464f8b9b01b1ab475d29ee788f246.png?4.06,bc18bbbd451,40,40
+Aetherial Mythril Elmo,Armor,Head,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/12/12bc911d0b1231f7354da2fefabec4e9013aeb96.png?4.06,27856847471,38,38
+Aetherial Mythril Gauntlets,Armor,Hands,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/42/42253cd815ad4e7a64daa5aa07c374722a128755.png?4.06,4daa27dfd93,40,39
+Aetherial Mythril Gorget,Accessories,Necklace,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b9/b956025d30d506d2d0e6b7ec82e2a10d02627f27.png?4.06,7579ca53a59,36,35
+Aetherial Mythril Haubergeon,Armor,Body,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/6a/6a7d1106ade2f598b578a6c7add0d7805aa2ab07.png?4.06,a473c058145,43,40
+Aetherial Mythril Knives,Arms,Rogue's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4e/4e24db24d576dcb4bcf78b90660461d18adb6949.png?4.06,550a8a967e1,38,38
+Aetherial Mythril Lance,Arms,Lancer's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9c/9c6ce990f38e21be4cad51b754a0a6ff3eced4f9.png?4.06,2216d73f798,40,40
+Aetherial Mythril Mitt Gauntlets,Armor,Hands,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1b/1b77ef35a52e81778e72d6c2f1190afb2bd4ab59.png?4.06,8c3680ae22b,42,41
+Aetherial Mythril Planisphere,Arms,Astrologian's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/2c/2c50440a42df764d9ac764eb2a3474c32cfe1347.png?4.06,f33dfbcc02b,41,40
+Aetherial Mythril Plate Belt,Armor,Waist,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/2a/2ad133353c2f910e1a003a3a08755643e04130d8.png?4.06,f94c118e5af,40,40
+Aetherial Mythril Pugiones,Arms,Rogue's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/5969ea7dc4ee60668b662b5fda002615c43ab57f.png?4.06,c36eeb9d7e5,45,44
+Aetherial Mythril Ring,Accessories,Ring,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/dc/dc3a26c9ea14e65a30d1acf30e406631efaa3e57.png?4.06,6850e747edf,37,37
+Aetherial Mythril Sabatons,Armor,Feet,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/59e78a5bb443375d487b7e7721b29475f1238bdb.png?4.06,6bd809b8c4a,40,40
+Aetherial Mythril Sollerets,Armor,Feet,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a5/a5852becbd3be5267e1435b96edce9f8050b4665.png?4.06,3260f332193,43,43
+Aetherial Mythril Spectacles,Armor,Head,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/2f/2fde8297781488404c1b5622afc70e54d227b2af.png?4.06,0a7556e8bd4,35,35
+Aetherial Mythril Star Globe,Arms,Astrologian's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/2a/2a7f4aa54e78bcbb37a3bafa674c43c24b3d0bfc.png?4.06,696c07d5459,38,38
+Aetherial Mythril Vambraces,Armor,Hands,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a4/a4443cf13e1deb0e7cc989774ba0c7d96d30a0cd.png?4.06,1dade21632b,39,37
+Aetherial Mythril Wristlets,Accessories,Bracelets,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7a/7aab0f8ede93d0515d93c246ddb9ae7bd1114155.png?4.06,85086afc947,36,35
+Aetherial Mythril Zweihander,Arms,Dark Knight's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f8/f8c3345c399762c30511622d202d3429f5ad31cb.png?4.06,d0712529f45,41,40
+Aetherial Mythril-barreled Carbine,Arms,Machinist's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4c/4cbffa91211282dc39371e3d8926d4a8a7266197.png?4.06,ed4ebb40db4,38,38
+Aetherial Mythril-barreled Musketoon,Arms,Machinist's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/89/89b5f69528942ce36484c827ce0062b80878eb83.png?4.06,6e389b29e4b,41,40
+Aetherial Mythril-plated Caligae,Armor,Feet,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/24/24ff9f5f62db0e082cdeeb11ec28fb5cfd11c2ef.png?4.06,d3410c3b152,42,41
+Aetherial Mythril-plated Jackboots,Armor,Feet,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/50/50ba9b0718b46fe90222a1a51921b16a7dfe2b18.png?4.06,08192d092eb,41,40
+Aetherial Oak Composite Bow,Arms,Archer's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/dd/dd20bb54c063c0f595f649b93013ed3fad193106.png?4.06,9b95af393b6,40,40
+Aetherial Oak Longbow,Arms,Archer's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f0/f088df85e11f193bae5a635ecb39df489cd00b59.png?4.06,285d045e391,35,35
+Aetherial Oak Radical,Arms,Two-handed Conjurer's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e9/e97cfbdb0af60e0461f71d248faf42859ee4b8a2.png?4.06,28db9832c83,35,35
+Aetherial Padded Cotton Trousers,Armor,Legs,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/8e/8e928742f6338a039d5b5393e8409e6a7f230652.png?4.06,02b2facbff3,20,20
+Aetherial Padded Hempen Trousers,Armor,Legs,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ae/aeed92ded98c470f40f86c5ffcc39673dc57fb8a.png?4.06,7a7a667ab66,15,15
+Aetherial Padded Leather Duckbills,Armor,Feet,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/fa/fa631d59b4d922f4d7f25e5e476633b8d053f033.png?4.06,a194d9fb89c,19,19
+Aetherial Padded Linen Trousers,Armor,Legs,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/de/de0a94b0a77f9d9ba71b624ddc427403bd88db26.png?4.06,24b4508eff4,40,40
+Aetherial Padded Velveteen Trousers,Armor,Legs,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9e/9e11a2c7b8aba060fcea8cb3013a4d73eb8600ef.png?4.06,036c082e8be,30,28
+Aetherial Padded Woolen Trousers,Armor,Legs,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/20/20edf38461d8a737b6d6bc27d2862d9305b066e8.png?4.06,bd39a05da95,49,47
+Aetherial Pastoral Oak Cane,Arms,Two-handed Conjurer's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/23/23239f2aec9cce5fb680474892566a827f077752.png?4.06,9e56596b581,38,35
+Aetherial Pearl Bracelet,Accessories,Bracelets,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/04/04d4cd8579954a11e8c5cd655000692c39287c88.png?4.06,24a3403c128,38,38
+Aetherial Pearl Choker,Accessories,Necklace,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/37/37099f96ac8332abc47adae9cab1e53feda574f8.png?4.06,437c60a8c7e,38,38
+Aetherial Pearl Earrings,Accessories,Earrings,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/85/85d965f06b86ac2550beb8a73ca5c4d2c303a543.png?4.06,3026f575eb5,39,38
+Aetherial Pearl Ring,Accessories,Ring,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/96/9620e52196f4e47706f068b03f6946cab6696f2f.png?4.06,8a108f511cd,39,38
+Aetherial Peisteskin Belt,Armor,Waist,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/8f/8f348d5eec625b97814e3b0eb29837cd655ecc39.png?4.06,6cc09539861,46,45
+Aetherial Peisteskin Cesti,Arms,Pugilist's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5c/5cf3afffecb23b6c6f0ed69e69dd0fc9dce0e3df.png?4.06,7ecbd9f83ff,46,44
+Aetherial Peisteskin Crakows,Armor,Feet,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/17/171091c8bc97bb16e7f99a8dacda63fd4549baa2.png?4.06,b2a25d4de4c,40,40
+Aetherial Peisteskin Harness,Armor,Body,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/74/74a31b4b83c226a7858777f3a1181049384c6fb2.png?4.06,4dc86eee8cb,42,41
+Aetherial Peisteskin Hunting Belt,Armor,Waist,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/49/4943de94dcd3690ee671c2626f758fc72765dc51.png?4.06,4ee33229140,42,41
+Aetherial Peisteskin Subligar,Armor,Legs,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9b/9b157c9954924dd5fbfe22af27292b077e4a8431.png?4.06,e538ef08151,42,41
+Aetherial Peridot Bracelet,Accessories,Bracelets,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7a/7a849b16966406c87d97e6b3f031a00ca4428a8e.png?4.06,0bcf50dcdae,38,38
+Aetherial Peridot Choker,Accessories,Necklace,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c5/c504b274a2e8aa0aeb1f8dd165f01f0f2987b900.png?4.06,bad5ffad115,38,38
+Aetherial Peridot Earrings,Accessories,Earrings,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d0/d050de06190fccdc971276997cfb8fff50dac865.png?4.06,d35cfa3f77c,39,38
+Aetherial Peridot Ring,Accessories,Ring,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/3b/3b1eaf0d01495eeaf0ecee35e0abf66673788cc5.png?4.06,536ac85537a,39,38
+Aetherial Plumed Walnut Macuahuitl,Arms,Gladiator's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ee/ee64bba14981f9ada054b28b8be0d4c275266d68.png?4.06,06d405f914a,41,41
+Aetherial Plumed Yew Crook,Arms,Two-handed Conjurer's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b2/b2799383a8fa193b5a9feba9448a93d13cc91de2.png?4.06,ff8db6a1192,32,32
+Aetherial Rainmaker's Hat,Armor,Head,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/70/703a02ec481e65c7837c4fdc79b800407cc09684.png?4.06,b382eb7318b,48,45
+Aetherial Rainmaker's Tunic,Armor,Body,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/2b/2b25de994cdc9ef9fe7c7e4c480ec6b46c71ed4b.png?4.06,b0e03b90596,48,45
+Aetherial Ranger's Hat,Armor,Head,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0e/0e5b78791d2055c7b2f670176fd3dffcdfaccec6.png?4.06,2b263292876,43,40
+Aetherial Ranger's Tunic,Armor,Body,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/30/30dc36ff031753055abf272c221fad1c8194360a.png?4.06,db6b111b3af,43,40
+Aetherial Raptorskin Armguards,Armor,Hands,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/86/866427ac23ab0162e23f82d4f496d49d518a6e9b.png?4.06,6bb0d633d44,49,47
+Aetherial Raptorskin Brais,Armor,Legs,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c4/c4c5a60215378366104ac04063bdf0f7c9c12340.png?4.06,8548017bded,49,48
+Aetherial Raptorskin Harness,Armor,Body,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ae/aeef47abc6f985b7153518f5c57529ea00d6386c.png?4.06,93090ea7636,47,45
+Aetherial Raptorskin Jacket,Armor,Body,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/47/47915ad3d0f6434bca7594047edfb365c922a614.png?4.06,b46d3878c26,49,47
+Aetherial Raptorskin Leg Guards,Armor,Feet,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c6/c604edd40423a060ace6ca8cd04bb8ad822ba820.png?4.06,7b95969966f,49,47
+Aetherial Raptorskin Pot Helm,Armor,Head,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/8b/8b51a6757f481145487b2fcea64f27fcb3ab6c45.png?4.06,e26046d57de,47,45
+Aetherial Raptorskin Satchel Belt,Armor,Waist,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/8c/8cf48500f96e21b0fdd9a980f2921142f558b385.png?4.06,cd40bfbcbeb,45,45
+Aetherial Raptorskin Subligar,Armor,Legs,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f9/f91763170acf2a9468f2582e7888f5c869c07636.png?4.06,6826be5ff25,47,45
+Aetherial Raptorskin Targe,Armor,Shield,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ad/adc799e1ae40c760d248395e2d4654d2bba77bd7.png?4.06,9414387dba3,42,41
+Aetherial Raptorskin Voyager's Belt,Armor,Waist,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b1/b192cb862b58d74604ebada6e1723a096b92d881.png?4.06,c426b14b474,49,47
+Aetherial Red Coral Armillae,Accessories,Bracelets,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d2/d215ebff173c262e648b5b5a4253fb63e395b769.png?4.06,c0040033211,39,38
+Aetherial Red Coral Necklace,Accessories,Necklace,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7ea6e4d6698bc31209e0e96b08009b09cc568d6e.png?4.06,3f7b910caa6,47,45
+Aetherial Red Coral Ring,Accessories,Ring,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9a/9aea82c8725af6defa48372192b6df04211324ea.png?4.06,e1f7a8c47e8,43,40
+Aetherial Reinforced Iron Plate Belt,Armor,Waist,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7ed823a93081364b41e1df7f5a0deb06688623c8.png?4.06,1087783dcb5,25,25
+Aetherial Reinforced Iron Sallet,Armor,Head,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/2a/2a15db545b8ce4726b72eeb6e540e68b5b6e75c3.png?4.06,409856938ea,23,23
+Aetherial Reinforced Mythril Elmo,Armor,Head,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1b/1b20a58dc4ae092283c2dc1a3292ae5d897458c2.png?4.06,2a51d95b890,44,44
+Aetherial Reinforced Steel Plate Belt,Armor,Waist,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ce/ce985ec417adfcaf00aae264cd1ce4ebbf733cd2.png?4.06,9c0681df3d3,35,35
+Aetherial Rope Belt,Armor,Waist,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/37/37df5e0c3df7fdc6691f6730ad073c8a0ce9ecf3.png?4.06,c078ea6193c,16,15
+Aetherial Rubellite Earrings,Accessories,Earrings,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4b/4b9db732d69e0fe30e2eee3fb76fe08b65fe357f.png?4.06,284d6e29a2b,49,47
+Aetherial Rubellite Ring,Accessories,Ring,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/3c/3cebb9ae3a1be6b7f81e5c4a92f2fc854945c83d.png?4.06,0911b606dc2,49,47
+Aetherial Silver Circlet (Amethyst),Armor,Head,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/07/070377d7e247e044b02d17afa686a28a67d76d72.png?4.06,b4171770191,28,28
+Aetherial Silver Circlet (Aquamarine),Armor,Head,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/2b/2b6067d953d4e25bdab5886ee3ea893b3861ef54.png?4.06,6394cd15ab7,28,28
+Aetherial Silver Circlet (Garnet),Armor,Head,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/49/4920a5c530fe2cefb0c76a007a4fe1a5f56c34c7.png?4.06,455049ce416,28,28
+Aetherial Silver Circlet (Goshenite),Armor,Head,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5e/5eb38bbdd0a969d7c8c83fe00fed9ffe4706c01b.png?4.06,9d309c20d38,28,28
+Aetherial Silver Circlet (Heliodor),Armor,Head,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d4/d41f54a326a51439a44c278079b9949abcd61483.png?4.06,a9eba24b778,28,28
+Aetherial Silver Circlet (Peridot),Armor,Head,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c6/c60d2d556631b8682893256a40be7258d2cbbd49.png?4.06,111e9da588f,28,28
+Aetherial Silver Ear Cuffs,Accessories,Earrings,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/27/2786c43ba94488aaf080b628c66ecb905710c498.png?4.06,ee59b1fa2f3,30,28
+Aetherial Silver Scepter,Arms,One-handed Thaumaturge's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d5/d59cde8314c23f68fc9c5c8898576bae1f203fa4.png?4.06,302f418e273,28,28
+Aetherial Silver Spectacles,Armor,Head,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/49/49a8699ace60f409342b34e0d7cadbfa3d99da41.png?4.06,7d74b9663c8,25,25
+Aetherial Silver Star Globe,Arms,Astrologian's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4c/4c2b1624bdb9475be3867a5f3af8c488ab55ba54.png?4.06,87f88b386b9,34,34
+Aetherial Sphene Bracelet,Accessories,Bracelets,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a0/a0753c876d860fb107beb3965b500192f8397001.png?4.06,ea084aedb03,28,28
+Aetherial Sphene Choker,Accessories,Necklace,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/33/33953ecc75bc640959c26b1a980d8d371267042e.png?4.06,4b9db8c5528,28,28
+Aetherial Sphene Earrings,Accessories,Earrings,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9c/9c61feb72c61cc02e3e05531018638043c32c14e.png?4.06,1435b6ebc7f,29,28
+Aetherial Sphene Ring,Accessories,Ring,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f7/f70bda8e26f57541941b50a98edcf97c403f7f01.png?4.06,71da9c0f5ec,29,28
+Aetherial Spiked Knuckles,Arms,Pugilist's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/2e/2e3842da0c94d934f9487b1e881490c1c685055a.png?4.06,088094a37a5,23,23
+Aetherial Spiked Mythril Labrys,Arms,Marauder's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/1684edd9e0348cda4a5be2b448de9ee621b48978.png?4.06,7a95d0c5b49,38,38
+Aetherial Spiked Steel Labrys,Arms,Marauder's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/45/45fb282c388e6e8d4e57744616192ed5602dca1e.png?4.06,f995cbc639e,28,28
+Aetherial Spinel Earrings,Accessories,Earrings,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d8/d8ee9125238a43e61371ef5fa99e1c661f65562d.png?4.06,523913bf120,49,47
+Aetherial Spinel Ring,Accessories,Ring,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4b/4bfcc9276ed7b334d1f9c9d6dbad487337fd7afe.png?4.06,17653ddc2c2,49,47
+Aetherial Sprouting Rosewood Radical,Arms,Two-handed Conjurer's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7a/7a2419e841772ce86d147fdb51d1846d828de7f1.png?4.06,847886a2f4a,41,41
+Aetherial Staghorn Staff,Arms,Two-handed Thaumaturge's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/36/360c70f1b8d7e73c1f80d500dd3a6830ab5d1dd0.png?4.06,71676539ef8,20,20
+Aetherial Steel Barbut,Armor,Head,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/84/84670612651951f7b8df7c49b43251045c0ceb31.png?4.06,5a330b3a1bc,37,35
+Aetherial Steel Bardiche,Arms,Marauder's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/be/beeac81b38dadca0c0f0630fdc5ed1be67842389.png?4.06,e8477d615f0,31,31
+Aetherial Steel Baselards,Arms,Rogue's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ac/ac35ea2258a5fe5001cf37a916bb9020d8451e57.png?4.06,f4e45b04603,34,34
+Aetherial Steel Bhuj,Arms,Marauder's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d1/d1a317666cbb001ea77397bb609e9bfabd9bcc82.png?4.06,b0d54465f6a,34,34
+Aetherial Steel Celata,Armor,Head,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/09/09d4a295d53c3ecd6d25ccd731773d345a674bab.png?4.06,8e9422febb7,30,28
+Aetherial Steel Claws,Arms,Pugilist's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/df/df3b9fd8f304d36216b2f4d86beb4d4cd0021743.png?4.06,d2950a16005,29,28
+Aetherial Steel Cuirass,Armor,Body,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d4/d46144644301a7ae2cc68a2efe565c2e3efa0792.png?4.06,7f7831b69bb,30,28
+Aetherial Steel Daggers,Arms,Rogue's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ee/ee8e3789f50185d811939d483899c0c1fcb0a6c4.png?4.06,aea3c8c1699,26,24
+Aetherial Steel Elmo,Armor,Head,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a6/a62fdc3b798c85c10a63bfb2e7bbd2df130cd4a4.png?4.06,c01c8dde460,32,32
+Aetherial Steel Falchion,Arms,Gladiator's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/95/951534390597d19d4b4319b2d517cf7309b3021b.png?4.06,251fa82d852,31,31
+Aetherial Steel Gauntlets,Armor,Hands,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/6e/6e45fa20e21bd952061b84cbe31648ca05cf3fd4.png?4.06,a56529f9440,30,28
+Aetherial Steel Halberd,Arms,Lancer's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e3/e3f9efd4ac31ceea96a999ea426ca45c6def3968.png?4.06,0f3c41bb51e,29,28
+Aetherial Steel Knives,Arms,Rogue's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d2/d265a6ea17d1a433eec6c4422ca60f7a38f0799b.png?4.06,b64879dee12,30,28
+Aetherial Steel Longsword,Arms,Gladiator's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/20/20288d68177881b2bc0d3a64a30c56708a8a9231.png?4.06,e72d61933a2,36,35
+Aetherial Steel Mitt Gauntlets,Armor,Hands,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1f/1f7d68a67f40a23e8179497e0e08ff2f3cf40e64.png?4.06,7c61d6e2e07,37,35
+Aetherial Steel Plate Belt,Armor,Waist,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ce/ce985ec417adfcaf00aae264cd1ce4ebbf733cd2.png?4.06,09ccf69699f,30,28
+Aetherial Steel Sabatons,Armor,Feet,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/20/201657296ddef1b57dcb73e2fb6536e965512b17.png?4.06,c18df7946e1,30,28
+Aetherial Steel Sallet,Armor,Head,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/bd/bd3e010469c092ff5185a344a2ce17a52b6c653b.png?4.06,97ff3380034,30,28
+Aetherial Steel Scale Fingers,Armor,Hands,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/95/95ec52861728c332de3abc2ad9928e5d0de9fb7a.png?4.06,3b7009d04e0,32,32
+Aetherial Steel Scale Greaves,Armor,Feet,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e6/e6b31003cbe94dca97f69e2c4ee81d10caf5ab74.png?4.06,62a41aecf6f,32,32
+Aetherial Steel Scale Mail,Armor,Body,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/89/89b6ec770b8491e2bb7c30131e972d4189533c02.png?4.06,601826e77ea,32,32
+Aetherial Steel Spear,Arms,Lancer's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/67/67cb773d56967d15e63700fb109b7db9fa63dcc0.png?4.06,4d8ffa152ed,31,31
+Aetherial Steel Zweihander,Arms,Dark Knight's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7a/7a69d4f6a14068a94f6da1646679b09d53f922e0.png?4.06,43a5d81453e,34,34
+Aetherial Steel-barreled Musketoon,Arms,Machinist's Arm,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/8b/8bf83bceb6e5742b8b60acdd00618874f535db4b.png?4.06,c6b18eda2ad,34,34
+Aetherial Steel-plated Caligae,Armor,Feet,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/01/0160d545653b168f30eb7dc285effac7351e998b.png?4.06,65d22d62598,37,35
+Aetherial Steelclad Boots,Armor,Feet,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c3/c3143d0a997378dc4c602b23a39f621a6d298b37.png?4.06,a913ffb9d78,32,32
+Aetherial Sunstone Bracelet,Accessories,Bracelets,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ad/ad1f0a7860d095fa86aa6547d005a229241d2d59.png?4.06,f6c422355d7,28,28
+Aetherial Sunstone Choker,Accessories,Necklace,http://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b8/b8ca3481e289aa9a5179499972666c3f7d964908.png?4.06,dd19253805b,28,28

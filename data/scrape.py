@@ -1,6 +1,8 @@
 import os
-from bs4 import BeautifulSoup
+import sys
+import time
 import requests
+from bs4 import BeautifulSoup
 
 '''
 Loads data into item_data.csv
@@ -8,17 +10,21 @@ After, sqlite3 into the db, then import the csv into a temp table (since the aut
 Then, insert all of the temp table into your real items table
 '''
 
-def get_data():
+def get_data(page):
     html_doc = ""
     data = ""
+    path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'item_data.csv');
 
-    url = 'http://na.finalfantasyxiv.com/lodestone/playguide/db/item/?page=1&order=1'
+    if page is None or page < 0:
+        page = 1
+
+    url = 'http://na.finalfantasyxiv.com/lodestone/playguide/db/item/?page= ' + str(page) + '&order=1'
     r = requests.get(url)
 
     html_doc = r.text
 
     '''
-    Offline processing
+    Offline scraping
     '''
     # Switch to curl later w/ internet
     # with open('../misc/test.html', 'r') as file:
@@ -62,8 +68,20 @@ def get_data():
         '''
         data = data + '\n' + name + ',' + main_type + ',' + sub_type + ',' + img + ',' + iid + ',' + item_level + ',' +  req_level 
 
-    with open('item_data.csv', 'a') as data_file:
+    with open(path, 'a') as data_file:
         data_file.write(data)
 
+if __name__ == '__main__':
+    if len(sys.argv) != 3 or int(sys.argv[1]) > int(sys.argv[2]):
+        print sys.argv
+        print "Invalid arguments!"
+        exit(2)
 
-get_data()
+    start_page = int(sys.argv[1])
+    end_page = int(sys.argv[2]) + 1
+
+    for i in range(start_page, end_page):
+        get_data(i)
+        # sleep incase they are monitoring for a high desnsity of requests from an ip
+        time.sleep(5)
+        print "Page %i scraped" % i
