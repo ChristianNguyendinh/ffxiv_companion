@@ -7,7 +7,7 @@ class TestAdmin(admin.ModelAdmin):
     list_filter = ('name', 'age')
 
 class ItemsAdmin(admin.ModelAdmin):
-    fields = ('name', 'main_type', 'sub_type', 'ilvl', 'rlvl')
+    fields = ('name', 'main_type', 'sub_type', 'iid', 'img', 'ilvl', 'rlvl')
     list_display = ('name', 'main_type', 'sub_type', 'ilvl', 'rlvl')
     list_filter = ('main_type',)
     

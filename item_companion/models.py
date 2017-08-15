@@ -15,6 +15,7 @@ class Items(models.Model):
     main_type = models.CharField(max_length=255, blank=False)
     sub_type = models.CharField(max_length=255, blank=False)
     img = models.CharField(max_length=255, blank=False)
+    iid = models.CharField(max_length=255, blank=False)
     ilvl = models.SmallIntegerField(blank=False)
     rlvl = models.SmallIntegerField(blank=False)
 
