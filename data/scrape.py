@@ -8,6 +8,11 @@ from bs4 import BeautifulSoup
 Loads data into item_data.csv
 After, sqlite3 into the db, then import the csv into a temp table (since the autoincrement key won't work)
 Then, insert all of the temp table into your real items table
+
+create temp table
+.mode csv
+.import data/item_data.csv temp
+INSERT INTO item_companion_items (name, main_type, sub_type, img, iid, ilvl, rlvl) SELECT * FROM temp;
 '''
 
 def get_data(page):
@@ -69,6 +74,10 @@ def get_data(page):
         data = data + '\n' + name + ',' + main_type + ',' + sub_type + ',' + img + ',' + iid + ',' + item_level + ',' +  req_level 
 
     with open(path, 'a') as data_file:
+        if u'\u2013' in data:
+            # ascii cant comprehend that type of dash
+            data = data.replace(u'\u2013', '-')
+
         data_file.write(data)
 
 if __name__ == '__main__':

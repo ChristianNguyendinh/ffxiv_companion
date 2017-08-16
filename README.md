@@ -2,13 +2,11 @@
   
 ### Todo:   
 - The crafting companion  
----- check boxes  
----- some styling for what we currently have  
----- Make a table for recipes?  
----- When a user adds a recipe for an item, it adds a list of item IDs for a recipe w/ foreign key?  
+---- fk recipes for now  
+---- style?     
 ---- tooltips?  
+---- use botantist, mining, fishing node locations somehow?? either a link or some icon?
 - Maybe a search of where to find the items?  
 ---- another table with foreign key of vendors to find items?? eh..  
+---- !! other ffxiv has locations and url is by name with underscores for spaces and no case sens !!
   
-!!!! + <strike>May</strike> DO need to add the item ID later if we want official tooltip and lookup
----- shit
