@@ -12,11 +12,22 @@
 
 {% block content %}
     <div class="container"> 
-        <div class=row>
+        <div class="row">
+            <div class="col-xs-2 col-xs-offset-2">
+                <a href="https://ffxiv.consolegameswiki.com/wiki/Botanist_Node_Locations" target="_blank">Botany Nodes</a>
+            </div>
+            <div class="col-xs-2 col-xs-offset-2">
+                <a href="https://ffxiv.consolegameswiki.com/wiki/Mining_Node_Locations" target="_blank">Miner Nodes</a>
+            </div>
+            <div class="col-xs-2 col-xs-offset-2">
+                <a href="https://ffxiv.consolegameswiki.com/wiki/Fishing_Locations" target="_blank">Fisher Nodes</a>
+            </div>
+        </div>
+        <div class="row">
             {% include "item_companion/searchbar.html" with title="Search For Items!" function="myFunc" %}
         </div>
         <div class="row items-box-div">
-            <div class="col-xs-9 items-box">
+            <div class="col-xs-12 items-box">
 
                 <div class="row item-row">
 

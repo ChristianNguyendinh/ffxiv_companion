@@ -52,7 +52,8 @@ html, body {
 }
 
 .item-img {
-    width: 75%;
+    width: 55%;
+    max-width: 70px;
 }
 
 .item-info {

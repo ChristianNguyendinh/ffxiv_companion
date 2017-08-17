@@ -5,8 +5,7 @@
 ---- fk recipes for now  
 ---- style?     
 ---- tooltips?  
----- use botantist, mining, fishing node locations somehow?? either a link or some icon?
+---- use botantist, mining, fishing node locations via icons with tooltips displaying more info
 - Maybe a search of where to find the items?  
----- another table with foreign key of vendors to find items?? eh..  
----- !! other ffxiv has locations and url is by name with underscores for spaces and no case sens !!
+---- !! other ffxiv wiki has locations and url is by name with underscores for spaces and no case sens - just a link to there?!!
   
