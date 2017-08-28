@@ -34,6 +34,13 @@ def all_item_names(req):
 	return JsonResponse({ "suggestions": items })
 
 '''
+Return info about all materials only
+'''
+def all_material_names(req):
+	materials = [ { 'value': str(item.name) } for item in Items.objects.filter(main_type="Materials") ]
+	return JsonResponse({ "suggestions": materials })
+
+'''
 Return all info about all items
 '''
 def all_item_full(req):

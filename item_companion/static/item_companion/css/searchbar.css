@@ -89,7 +89,14 @@ html, body {
     opacity: 1;
 }
 
-#autocomplete {
+.list-box {
+    border: 1px solid pink;  
+    min-height: 500px; 
+    height: 75%;
+    padding: 0;
+}
+
+.autocomplete-input {
     font-size: 150%; 
     width: 75%; 
     padding: 0.5% 0.25%; 
@@ -98,7 +105,7 @@ html, body {
     vertical-align: top;
 }
 
-#search-button {
+.search-button {
     font-size: 150%; 
     padding: 0.5% 0.25%; 
     margin: 0;
@@ -108,4 +115,8 @@ html, body {
 
 #search-bar-title {
     margin: 5%
+}
+
+#result-list {
+    font-size: 18px;
 }
