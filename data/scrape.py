@@ -80,17 +80,61 @@ def get_data(page):
 
         data_file.write(data)
 
-if __name__ == '__main__':
-    if len(sys.argv) != 3 or int(sys.argv[1]) > int(sys.argv[2]):
-        print sys.argv
-        print "Invalid arguments!"
-        exit(2)
+def scrape_table():
+    html_doc = ""
+    data = "item,level,zone,coord\n"
 
-    start_page = int(sys.argv[1])
-    end_page = int(sys.argv[2]) + 1
+    # Switch to curl later w/ internet
+    with open('test.html', 'r') as file:
+        for line in file:
+            html_doc = html_doc + line
 
-    for i in range(start_page, end_page):
-        get_data(i)
-        # sleep incase they are monitoring for a high desnsity of requests from an ip
-        time.sleep(5)
-        print "Page %i scraped" % i
+
+    soup = BeautifulSoup(html_doc, 'html.parser')
+    table = soup.find('table').find('tbody')
+
+    for row in table.find_all('tr'):
+        d = row.find_all('td')
+        # this is gross
+        i = 0
+        obj = {}
+        for datum in d:
+            if i < 5:
+                if i == 0:
+                    # theres a space at the beginning for some reason
+                    obj['level'] = datum.text[1:]
+                    #print datum.text[1:]
+                if i == 1:
+                    obj['type'] = datum.find('a').text
+                    #print datum.find('a').text
+                if i == 2:
+                    obj['zone'] = datum.find('a').text
+                    #print datum.find('a').text
+                if i == 3:
+                    obj['coord'] = datum.text[1:]
+                    #print datum.text[1:]
+                if i == 4:
+                    for mat in datum.findChildren():
+                        data += mat.text + "," + obj['level'] + "," + obj['type'] + "," + obj['zone'] + "," + obj['coord'] + "\n"
+                        # for every item here, take the current obj and output one datum with it
+                    
+                i = i + 1
+                
+    print data
+
+# if __name__ == '__main__':
+#     if len(sys.argv) != 3 or int(sys.argv[1]) > int(sys.argv[2]):
+#         print sys.argv
+#         print "Invalid arguments!"
+#         exit(2)
+
+#     start_page = int(sys.argv[1])
+#     end_page = int(sys.argv[2]) + 1
+
+#     for i in range(start_page, end_page):
+#         get_data(i)
+#         # sleep incase they are monitoring for a high desnsity of requests from an ip
+#         time.sleep(5)
+#         print "Page %i scraped" % i
+
+scrape_table()
