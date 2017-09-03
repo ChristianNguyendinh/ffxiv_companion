@@ -82,7 +82,7 @@ def get_data(page):
 
 def scrape_table():
     html_doc = ""
-    data = "item,level,zone,coord\n"
+    data = "item,level,node_type,zone,coord\n"
 
     # Switch to curl later w/ internet
     with open('test.html', 'r') as file:

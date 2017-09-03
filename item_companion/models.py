@@ -21,4 +21,20 @@ class Items(models.Model):
 
     def __str__(self):
         return self.name
+
+class Botany_Node(models.Model):
+    item = models.CharField(max_length=255, blank=False)
+    node_type = models.CharField(max_length=255, blank=False)
+    level = models.CharField(max_length=255, blank=False)
+    zone = models.CharField(max_length=255, blank=False)
+    coords = models.CharField(max_length=255, blank=False)
+
+class Miner_Node(models.Model):
+    item = models.CharField(max_length=255, blank=False)
+    node_type = models.CharField(max_length=255, blank=False)
+    level = models.CharField(max_length=255, blank=False)
+    zone = models.CharField(max_length=255, blank=False)
+    coords = models.CharField(max_length=255, blank=False)
+
+#    CREATE TABLE "temp" ("item" varchar(255) NOT NULL, "node_type" varchar(255) NOT NULL, "level" varchar(255) NOT NULL, "zone" varchar(255) NOT NULL, "coords" varchar(255) NOT NULL);
         
